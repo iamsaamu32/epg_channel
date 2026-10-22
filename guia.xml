@@ -1,0 +1,1 @@
+"<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE tv SYSTEM 'xmltv.dtd'><tv generator-info-name='MiGeneradorEPG'><channel id='"; 1.data.channel; "'><display-name lang='es'>"; 1.data.channel; "</display-name></channel>"; 15.text; "</tv>"
