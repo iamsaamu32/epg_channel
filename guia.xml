@@ -7,6 +7,12 @@
 <channel id="ENT Extreme">
 <display-name lang="es">ENT Extreme</display-name>
 </channel>
+<channel id="ENT Movies">
+<display-name lang="es">ENT Movies</display-name>
+</channel>
+<channel id="ENT Comedy">
+<display-name lang="es">ENT Comedy</display-name>
+</channel>
 <programme start="20261022160057 +0000" stop="20261022173937 +0000" channel="ENT Channel">
   <title lang="es">Cars 2</title>
   <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
@@ -1708,6 +1714,1218 @@
 <programme start="20261028225425 +0000" stop="20261029005337 +0000" channel="ENT Extreme">
   <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
   <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
+</programme>
+
+
+<programme start="20261022150545 +0000" stop="20261022165718 +0000" channel="ENT Movies">
+  <title lang="es">Ant-Man 2: La Avispa</title>
+  <desc lang="es">Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado.</desc>
+</programme>
+
+
+<programme start="20261022165718 +0000" stop="20261022191133 +0000" channel="ENT Movies">
+  <title lang="es">Star Wars: Episodio III - La Venganza de los Sith</title>
+  <desc lang="es">Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi lideran un masivo ejército clon en una batalla de galaxia contra los Separatistas. Cuando los siniestros Sith revelan un complot de mil años para gobernar la galaxia, la República se derrumba y de sus ceni...</desc>
+</programme>
+
+
+<programme start="20261022191133 +0000" stop="20261022210428 +0000" channel="ENT Movies">
+  <title lang="es">Camino a la Perdicion</title>
+  <desc lang="es">En los oscuros años de la Gran Depresión, Michael Sullivan es un asesino a sueldo que profesa una lealtad inquebrantable a su jefe, el señor Rooney, y, al mismo tiempo, un buen padre de familia. Son tiempos duros en Rock Island, donde domina la mafia irlandesa, la Ley Seca sig...</desc>
+</programme>
+
+
+<programme start="20261022210428 +0000" stop="20261022222756 +0000" channel="ENT Movies">
+  <title lang="es">Kung Fu Panda</title>
+  <desc lang="es">Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furio...</desc>
+</programme>
+
+
+<programme start="20261022222756 +0000" stop="20261022235958 +0000" channel="ENT Movies">
+  <title lang="es">Soy Leyenda</title>
+  <desc lang="es">Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en unos mutantes nocturnos llamados “Darkseekers” y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y...</desc>
+</programme>
+
+
+<programme start="20261022235958 +0000" stop="20261023013937 +0000" channel="ENT Movies">
+  <title lang="es">Alerta Máxima 2</title>
+  <desc lang="es">Un tren de pasajeros ha sido robado por un experto de electrónica y se ha convertido un centro de la orden no detectable de un satélite de armas. Ha planeado explotar Washington DC y sólo un hombre le puede parar, antiguo SEAL Naval Casey Ryback.</desc>
+</programme>
+
+
+<programme start="20261023013937 +0000" stop="20261023034935 +0000" channel="ENT Movies">
+  <title lang="es">Se7en: Los Siete Pecados Capitales</title>
+  <desc lang="es">Somerset es un solitario y veterano detective a punto de retirarse que se encuentra con Mills, un joven impulsivo. Ambos investigan un particular asesinato. Es este el primero de una serie de crímenes que aluden los siete pecados capitales.</desc>
+</programme>
+
+
+<programme start="20261023034935 +0000" stop="20261023055926 +0000" channel="ENT Movies">
+  <title lang="es">Triple frontera</title>
+  <desc lang="es">Un equipo de ex soldados de las fuerzas especiales planea robar todo el dinero de la casa de un narcotraficante en la jungla del Amazonas, en la frontera de Perú, Brasil y Colombia. Pero los problemas surgen una vez iniciado el plan.</desc>
+</programme>
+
+
+<programme start="20261023055926 +0000" stop="20261023074945 +0000" channel="ENT Movies">
+  <title lang="es">El Rey de la Comedia</title>
+  <desc lang="es">Rupert Pupkin es un cómico obsesionado con la fama y convertirse en el mejor en su campo. Un día Rupert conoce a su ídolo, Jerry Langford, y le suplica la oportunidad de aparecer en su show, pero éste se la niega. Sin embargo Pupkin no cejará en su empeño, acosando a Jerry par...</desc>
+</programme>
+
+
+<programme start="20261023074945 +0000" stop="20261023095309 +0000" channel="ENT Movies">
+  <title lang="es">El Día del Fin del Mundo</title>
+  <desc lang="es">Un matrimonio a punto de separarse debe tratar de garantizar la seguridad de su hijo y ellos mismos cuando una catástrofe se avecina hacia el planeta. Un objeto del espacio está a punto de colisionar con la Tierra y esta familia es escogida para entrar en un búnker subterráneo...</desc>
+</programme>
+
+
+<programme start="20261023095309 +0000" stop="20261023113040 +0000" channel="ENT Movies">
+  <title lang="es">Las aventuras de Sharkboy y Lavagirl</title>
+  <desc lang="es">Todos siempre supieron que Max tenía una imaginación salvaje, pero nadie creía que sus creaciones más salvajes, un niño criado por grandes tiburones blancos vigilantes y una niña con la fuerza de un volcán, fueran reales. Ahora, estos dos maestros de acción del tamaño de una p...</desc>
+</programme>
+
+
+<programme start="20261023113040 +0000" stop="20261023133116 +0000" channel="ENT Movies">
+  <title lang="es">El hombre araña</title>
+  <desc lang="es">Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.</desc>
+</programme>
+
+
+<programme start="20261023133116 +0000" stop="20261023145919 +0000" channel="ENT Movies">
+  <title lang="es">Kung Fu Panda</title>
+  <desc lang="es">Cuando el Valle de la Paz se ve amenazado, el perezoso Po el panda descubre su destino como el “elegido” y se entrena para convertirse en un héroe de kung fu, pero no será fácil transformar al vago desaliñado en un valiente guerrero. Depende del Maestro Shifu y los Cinco Furio...</desc>
+</programme>
+
+
+<programme start="20261023145919 +0000" stop="20261023163500 +0000" channel="ENT Movies">
+  <title lang="es">Soy Leyenda</title>
+  <desc lang="es">Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en unos mutantes nocturnos llamados “Darkseekers” y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y...</desc>
+</programme>
+
+
+<programme start="20261023163500 +0000" stop="20261023184133 +0000" channel="ENT Movies">
+  <title lang="es">Iron Man 3</title>
+  <desc lang="es">El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá...</desc>
+</programme>
+
+
+<programme start="20261023184133 +0000" stop="20261023201449 +0000" channel="ENT Movies">
+  <title lang="es">Red</title>
+  <desc lang="es">Mei Lee es una niña china-canadiense de trece años que se debate entre ser la hija obediente de su madre y el caos de la adolescencia. Y, por si los cambios en sus intereses, relaciones y cuerpo no fueran suficientes, cada vez que se emociona o estresa demasiado, se convierte...</desc>
+</programme>
+
+
+<programme start="20261023201449 +0000" stop="20261023222610 +0000" channel="ENT Movies">
+  <title lang="es">Godzilla Minus One</title>
+  <desc lang="es">En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas... y mucho menos defenderse?</desc>
+</programme>
+
+
+<programme start="20261023222610 +0000" stop="20261023235958 +0000" channel="ENT Movies">
+  <title lang="es">Misteriosa Obsesión</title>
+  <desc lang="es">Telly Paretta se encuentra atormentada por el recuerdo de su hijo de ocho años, Sam, fallecido hace 14 meses en un accidente aéreo. Mientras intenta superar la pena y el consiguiente alejamiento de su marido Jim, su psiquiatra, el Dr. Munce, le informa de que está sufriendo al...</desc>
+</programme>
+
+
+<programme start="20261023235958 +0000" stop="20261024015106 +0000" channel="ENT Movies">
+  <title lang="es">Taxi Driver</title>
+  <desc lang="es">Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill...</desc>
+</programme>
+
+
+<programme start="20261024015106 +0000" stop="20261024035714 +0000" channel="ENT Movies">
+  <title lang="es">Sin lugar para los débiles</title>
+  <desc lang="es">Un cazador de tesoros se encuentra en una espiral de violencia después de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un ju...</desc>
+</programme>
+
+
+<programme start="20261024035714 +0000" stop="20261024055956 +0000" channel="ENT Movies">
+  <title lang="es">Trumbo: La lista negra de Hollywood</title>
+  <desc lang="es">En los años 40, Dalton Trumbo, el guionista mejor pagado de Hollywood, disfruta de sus exitos. Pero entonces comienza la caza de brujas: la Comisión de Actividades Antiamericanas inicia una campaña anticomunista. Trumbo, uno de los llamados "10 de Hollywood", entra en la lista...</desc>
+</programme>
+
+
+<programme start="20261024055956 +0000" stop="20261024080152 +0000" channel="ENT Movies">
+  <title lang="es">La Momia</title>
+  <desc lang="es">Un aventurero imprudente y un grupo de exploradores desentierran accidentalmente una antigua maldición egipcia. Ahora, deben luchar contra la resucitada momia del sacerdote Imhotep, que busca recuperar su poder y venganza sobre el mundo moderno.</desc>
+</programme>
+
+
+<programme start="20261024080152 +0000" stop="20261024092616 +0000" channel="ENT Movies">
+  <title lang="es">Frankenweenie</title>
+  <desc lang="es">Conmovedora historia sobre un niño llamado Victor quien, tras la trágica muerte de su adorado perro Sparky, utiliza la ciencia para devolverlo a la vida. Sin embargo, su experimento desencadena una serie de eventos que desafían las normas y la moralidad de su pequeño pueblo.</desc>
+</programme>
+
+
+<programme start="20261024092616 +0000" stop="20261024113456 +0000" channel="ENT Movies">
+  <title lang="es">X-Men: Primera generación</title>
+  <desc lang="es">En la década de 1960, los humanos con superpoderes Charles Xavier y Erik Lensherr trabajan juntos para encontrar otros como ellos, pero la búsqueda vengativa de Erik de un ambicioso mutante que arruinó su vida provoca un cisma que los divide.</desc>
+</programme>
+
+
+<programme start="20261024113456 +0000" stop="20261024132749 +0000" channel="ENT Movies">
+  <title lang="es">Zootopia</title>
+  <desc lang="es">Decidida a demostrar su valía, la oficial Judy Hopps, la primera conejita de la fuerza policial de Zootopia, aprovecha la oportunidad de resolver su primer caso, incluso si eso significa asociarse con el zorro estafador Nick Wilde para resolver el misterio.</desc>
+</programme>
+
+
+<programme start="20261024132749 +0000" stop="20261024150142 +0000" channel="ENT Movies">
+  <title lang="es">Austin Powers 3: El Miembro de Oro</title>
+  <desc lang="es">El agente Austin Powers se enfrenta de nuevo al doctor Maligno y a su cómplice, Mini-Yo; que tras escapar de una cárcel de máxima seguridad obliga a Austin Powers a ponerse de nuevo en acción. Miembro de Oro es un misterioso personaje que ayuda al doctor Maligno a idear el pla...</desc>
+</programme>
+
+
+<programme start="20261024150142 +0000" stop="20261024165416 +0000" channel="ENT Movies">
+  <title lang="es">Los increíbles</title>
+  <desc lang="es">Una familia de superhéroes encubiertos, mientras intentan vivir la tranquila vida suburbana, se ven obligados a entrar en acción para salvar el mundo.</desc>
+</programme>
+
+
+<programme start="20261024165416 +0000" stop="20261024182957 +0000" channel="ENT Movies">
+  <title lang="es">Sólo falta el asesino</title>
+  <desc lang="es">Phoebe, una turista americana, y Julian, un actor americano en paro, se conocen cuando encuentran en Roma un perro perdido por el que ofrecen una cuantiosa recompensa. Cuando van a Montecarlo a entregárselo a su dueña, que es una acaudalada mujer, la encuentran muerta. Por una...</desc>
+</programme>
+
+
+<programme start="20261024182957 +0000" stop="20261024200606 +0000" channel="ENT Movies">
+  <title lang="es">Luna de miel para tres</title>
+  <desc lang="es">Betsy es una maestra de escuela decidida a casarse con Jack, un investigador privado, cuya situación económica es bastante precaria. Durante un viaje a Las Vegas, un excéntrico millonario se encapricha de ella y le hace a la pareja una tentadora oferta.</desc>
+</programme>
+
+
+<programme start="20261024200606 +0000" stop="20261024220814 +0000" channel="ENT Movies">
+  <title lang="es">El rey león</title>
+  <desc lang="es">La nueva versión de acción real de EL REY LEÓN de Disney, del director Jon Favreau, nos lleva a la sabana africana donde un futuro rey ha nacido. Simba idolatra a su padre, el rey Mufasa, y está entusiasmado con su destino real. Pero no todos en el reino celebran la llegada de...</desc>
+</programme>
+
+
+<programme start="20261024220814 +0000" stop="20261024235958 +0000" channel="ENT Movies">
+  <title lang="es">Sin Escalas</title>
+  <desc lang="es">Bill Marks, un veterano agente del servicio aéreo de los Marshalls, se siente bastante quemado tanto con el mundo como con su profesión: no entiende su labor como un deber para salvaguardar vidas, sino como un rutinario trabajo de oficina a bordo de un avión. Sin embargo, un d...</desc>
+</programme>
+
+
+<programme start="20261025014209 +0000" stop="20261025033014 +0000" channel="ENT Movies">
+  <title lang="es">Analízame</title>
+  <desc lang="es">Paul Vitti (De Niro), uno de los capos de la mafia más poderosos de la ciudad sufre de inseguridad, y como se acerca una reunión de todos los capos donde se debe decidir quien será el nuevo jefe de todos los jefes, debe encontrar una solución para que no piensen que es un coba...</desc>
+</programme>
+
+
+<programme start="20261025033014 +0000" stop="20261025055959 +0000" channel="ENT Movies">
+  <title lang="es">El Último Samurái</title>
+  <desc lang="es">1870. El capitán Nathan Algren es un hombre a la deriva. Las batallas que libró en otro tiempo parecen ahora lejanas e inútiles. Una vez arriesgó su vida por el honor y por la patria, pero, en los años transcurridos desde la Guerra de Secesión estadounidense, el mundo ha cam...</desc>
+</programme>
+
+
+<programme start="20261025055959 +0000" stop="20261025073557 +0000" channel="ENT Movies">
+  <title lang="es">Grandes Héroes</title>
+  <desc lang="es">Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.</desc>
+</programme>
+
+
+<programme start="20261025073557 +0000" stop="20261025091316 +0000" channel="ENT Movies">
+  <title lang="es">Ralph, el demoledor</title>
+  <desc lang="es">Durante décadas, Ralph ha vivido a la sombra de Repara-Félix Jr., el chico bueno de su videojuego. Cansado de ser el malo de la historia, Ralph decide tomar el asunto por sus propias y gigantes manos, y se lanza en un viaje a través de los distintos mundos y generaciones de vi...</desc>
+</programme>
+
+
+<programme start="20261025091316 +0000" stop="20261025112221 +0000" channel="ENT Movies">
+  <title lang="es">Maze Runner: Prueba de fuego</title>
+  <desc lang="es">Thomas y sus compañeros deben cruzar un agreste desierto para encontrar pistas que les ayuden a combatir a la malévola organización CRUEL. Durante su viaje encontrarán inimaginables obstáculos, conocerán a afectados por la enfermedad, y harán nuevos aliados.</desc>
+</programme>
+
+
+<programme start="20261025112221 +0000" stop="20261025134529 +0000" channel="ENT Movies">
+  <title lang="es">Ángeles y demonios</title>
+  <desc lang="es">El profesor de simbología religiosa Robert Langdon, absorto en la investigación de una antigua secta, la de los "Illuminati", busca el arma más mortífera de la humanidad (antimateria), que algunos miembros de esta secta han introducido en el Vaticano. Langdon y una científica...</desc>
+</programme>
+
+
+<programme start="20261025134529 +0000" stop="20261025160554 +0000" channel="ENT Movies">
+  <title lang="es">El Legado Bourne</title>
+  <desc lang="es">Una expansión del universo a partir de las novelas de Robert Ludlum, centrada en un nuevo héroe cuyo protagonismo se ha desencadenado por los acontecimientos de las tres películas anteriores.</desc>
+</programme>
+
+
+<programme start="20261025160554 +0000" stop="20261025175847 +0000" channel="ENT Movies">
+  <title lang="es">Cars</title>
+  <desc lang="es">El aspirante campeón de carreras, Rayo McQueen, parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado. Sin embargo, Rayo cometió el error de desviar su destino y terminó llegando a un pequeño pueblo olvidado de la Ruta 66.</desc>
+</programme>
+
+
+<programme start="20261025175847 +0000" stop="20261025205155 +0000" channel="ENT Movies">
+  <title lang="es">Avengers: Endgame</title>
+  <desc lang="es">Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.</desc>
+</programme>
+
+
+<programme start="20261025205155 +0000" stop="20261025223500 +0000" channel="ENT Movies">
+  <title lang="es">Hombres de Negro 3</title>
+  <desc lang="es">La película comienza con la fuga de un extraño y poderoso extraterrestre llamado Boris el animal. Es el último superviviente de la raza alienígena boglodita, que sobrevive mediante el ataque, toma, y ocupación de otros planetas habitados. Boris es un asesino, que fue capturado...</desc>
+</programme>
+
+
+<programme start="20261025223500 +0000" stop="20261025235959 +0000" channel="ENT Movies">
+  <title lang="es">Loca academia de pilotos</title>
+  <desc lang="es">"Topper" Harley es un piloto de élite, un "Top Gun" de las fuerzas aéreas norteamericanas, que tiene que convivir con el legado de su padre y que mantiene una dura rivalidad con otro piloto, Kent Gregory. Un día se le encomienda una dura y peligrosa misión: destruir una planta...</desc>
+</programme>
+
+
+<programme start="20261026015102 +0000" stop="20261026035557 +0000" channel="ENT Movies">
+  <title lang="es">Sicario: Tierra de nadie</title>
+  <desc lang="es">En México, SICARIO significa asesino a sueldo. En el área fronteriza y anárquica que se extiende entre los Estados Unidos y México, una agente idealista del FBI es reclutada por un funcionario gubernamental élite para ayudar en la creciente guerra contra las drogas. Dirigidos...</desc>
+</programme>
+
+
+<programme start="20261026035557 +0000" stop="20261026055849 +0000" channel="ENT Movies">
+  <title lang="es">Las Confesiones del Sr. Schmidt</title>
+  <desc lang="es">Un viudo medita sobre su vida desperdiciada cuando maneja a Colorado para asistir a la boda de su hija y un perdedor.</desc>
+</programme>
+
+
+<programme start="20261026055849 +0000" stop="20261026073007 +0000" channel="ENT Movies">
+  <title lang="es">Almost Heroes</title>
+  <desc lang="es">Two bumbling explorers hope to beat Lewis &amp; Clarke to the Pacific Ocean as they race across America's western frontier in the early 1800's.</desc>
+</programme>
+
+
+<programme start="20261026073007 +0000" stop="20261026090602 +0000" channel="ENT Movies">
+  <title lang="es">Hombres de negro</title>
+  <desc lang="es">Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los humanos, sin que nadie lo supiese. Los Hombres de Negro (Men in Black) son unos agentes, pertenecientes a una asociación altamente secreta del gobierno, encargados de controlar a los alienígenas...</desc>
+</programme>
+
+
+<programme start="20261026090602 +0000" stop="20261026105935 +0000" channel="ENT Movies">
+  <title lang="es">Me casé con un boludo</title>
+  <desc lang="es">Fabián Brando y Florencia Córmik son actores. El es el más renombrado del país y ella es una completa desconocida. Durante el rodaje de un film inician un fogoso romance que, casi sin noviazgo mediante, termina en casamiento. Durante la luna de miel Florencia se da cuenta de q...</desc>
+</programme>
+
+
+<programme start="20261026105935 +0000" stop="20261026125049 +0000" channel="ENT Movies">
+  <title lang="es">Free Guy: Tomando el control</title>
+  <desc lang="es">Un hombre descubre que en realidad es un personaje dentro de un videojuego. Guy (Ryan Reynolds) trabaja como cajero de un banco, es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como...</desc>
+</programme>
+
+
+<programme start="20261026125049 +0000" stop="20261026144151 +0000" channel="ENT Movies">
+  <title lang="es">Amor ciego</title>
+  <desc lang="es">Hal Larsen es un muchacho superficial que sólo encuentra bellas a las chicas que parecen supermodelos. Sin embargo, después de ser sometido a una sesión de hipnosis por un conocido gurú, sólo será capaz de ver la belleza interior de las mujeres. Rosemary, una chica obesa y bon...</desc>
+</programme>
+
+
+<programme start="20261026144151 +0000" stop="20261026162817 +0000" channel="ENT Movies">
+  <title lang="es">X-Men orígenes: Wolverine</title>
+  <desc lang="es">Los primeros años de James Logan, con la rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Arma X, y su experimentación hacia el mutante revestido de metal Wolverine.</desc>
+</programme>
+
+
+<programme start="20261026162817 +0000" stop="20261026182400 +0000" channel="ENT Movies">
+  <title lang="es">Los Descendientes</title>
+  <desc lang="es">Un reino idílico actual donde el benévolo hijo adolescente del Rey Adán y la Reina Belle ofrece una oportunidad de redención para los vástagos problemáticos de los villanos clásicos de Disney: Cruella De Vil (Carlos), Maléfica (Mal), la Reina Malvada (Evvie) y Jafar (Jay).</desc>
+</programme>
+
+
+<programme start="20261026182400 +0000" stop="20261026203019 +0000" channel="ENT Movies">
+  <title lang="es">Tomorrowland</title>
+  <desc lang="es">Atado por un destino compartido, un adolescente brillante y optimista lleno de curiosidad científica y un ex inventor genio de niño, hastiado de la desilusión, embarcarse en una misión llena de peligros para descubrir los secretos de un lugar enigmático en algún lugar del tiem...</desc>
+</programme>
+
+
+<programme start="20261026203019 +0000" stop="20261026221628 +0000" channel="ENT Movies">
+  <title lang="es">Señales</title>
+  <desc lang="es">Graham Hess es un pastor protestante que vive con sus dos hijos y con su hermano, Merrill, una antigua estrella del béisbol que trabaja en una gasolinera. Tras la muerte de su esposa en un accidente de tráfico, Graham pierde la fe y, en consecuencia, abandona a sus feligreses....</desc>
+</programme>
+
+
+<programme start="20261026221628 +0000" stop="20261026235958 +0000" channel="ENT Movies">
+  <title lang="es">Rápido y furioso: Reto Tokio</title>
+  <desc lang="es">Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan...</desc>
+</programme>
+
+
+<programme start="20261027013437 +0000" stop="20261027034548 +0000" channel="ENT Movies">
+  <title lang="es">3000 millas al infierno</title>
+  <desc lang="es">Era un plan bastante ingenioso: robe el cuarto de cuenta del Casino de Riviera durante una convención del imitador de Elvis. Pero Thomas Murphy decidió guardar todo el dinero para sí y pegó un tiro a todos sus compañeros, incluso la exestafa recientemente liberada Michael Zane...</desc>
+</programme>
+
+
+<programme start="20261027034548 +0000" stop="20261027055948 +0000" channel="ENT Movies">
+  <title lang="es">Los Ángeles al desnudo</title>
+  <desc lang="es">Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
+</programme>
+
+
+<programme start="20261027055948 +0000" stop="20261027075255 +0000" channel="ENT Movies">
+  <title lang="es">Charlie y La Fábrica de Chocolate</title>
+  <desc lang="es">Charlie Bucket un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y...</desc>
+</programme>
+
+
+<programme start="20261027075255 +0000" stop="20261027091957 +0000" channel="ENT Movies">
+  <title lang="es">Asalto al camión blindado</title>
+  <desc lang="es">El crimen perfecto, sin víctimas, sin violencia e indetectable, se tuerce fatalmente en Blindado, un thriller lleno de acción donde todo es posible. Un grupo de guardias de seguridad que escoltan un camión blindado ejecuta un meticuloso plan para robar a la compañía de segurid...</desc>
+</programme>
+
+
+<programme start="20261027091957 +0000" stop="20261027113813 +0000" channel="ENT Movies">
+  <title lang="es">Avengers: Los Vengadores</title>
+  <desc lang="es">Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel "Los Vengadores", el legendario grupo de su...</desc>
+</programme>
+
+
+<programme start="20261027113813 +0000" stop="20261027135151 +0000" channel="ENT Movies">
+  <title lang="es">Una Mente Brillante</title>
+  <desc lang="es">En la Universidad de Princeton, John Nash se esfuerza por hacer una valiosa contribución y así dejar un legado al mundo de las matemáticas.  Después de la escuela de postgrado se enfoca en la enseñanza, lo que lo lleva a una relación romántica con su estudiante Alicia. Mientra...</desc>
+</programme>
+
+
+<programme start="20261027135151 +0000" stop="20261027154435 +0000" channel="ENT Movies">
+  <title lang="es">Defending Your Life: El Cielo... próximamente</title>
+  <desc lang="es">El día de su cumpleaños, cuando acaba de estrenar un magnífico coche, Daniel muere en el acto al chocar contra otro vehículo. Instantes después, se encuentra en La Ciudad del Juicio, rodeado de personas que también esperan la decisión de un tribunal que puede decidir enviarlos...</desc>
+</programme>
+
+
+<programme start="20261027154435 +0000" stop="20261027175718 +0000" channel="ENT Movies">
+  <title lang="es">Piratas del Caribe 4: Navegando Aguas Misteriosas</title>
+  <desc lang="es">Cuando Jack se cruza con una mujer de su pasado, no está seguro de si es amor... o si se trata de una estafadora despiadada que lo está utilizando para encontrar la legendaria Fuente de la Juventud.</desc>
+</programme>
+
+
+<programme start="20261027175718 +0000" stop="20261027192733 +0000" channel="ENT Movies">
+  <title lang="es">Viaje al centro de la Tierra</title>
+  <desc lang="es">Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la...</desc>
+</programme>
+
+
+<programme start="20261027192733 +0000" stop="20261027214416 +0000" channel="ENT Movies">
+  <title lang="es">Siete años en el Tíbet</title>
+  <desc lang="es">Heinrich Harrer fue un famoso alpinista austríaco que intentó la ascensión al Nanga Parbat; desgraciadamente, su aventura se vio bruscamente interrumpida por el estallido de la Segunda Guerra Mundial (1939-1945). Tanto él como su compañero, Peter Ausehnaiter, fueron recluidos...</desc>
+</programme>
+
+
+<programme start="20261027214416 +0000" stop="20261027235958 +0000" channel="ENT Movies">
+  <title lang="es">Golpes del Destino</title>
+  <desc lang="es">Después de haber entrenado y representado a los mejores púgiles, Frankie Dunn regenta un gimnasio con la ayuda de Scrap, un ex-boxeador que es además su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la religión buscando una redención qu...</desc>
+</programme>
+
+
+<programme start="20261027235958 +0000" stop="20261028014929 +0000" channel="ENT Movies">
+  <title lang="es">El vengador del futuro</title>
+  <desc lang="es">La Tierra, año 2084. Doug Quaid, un hombre que lleva una vida aparentemente tranquila, vive atormentado por una pesadilla que todas las noches lo transporta a Marte. Decide entonces recurrir al laboratorio de Recall, una empresa de vacaciones virtuales que le ofrece la oportun...</desc>
+</programme>
+
+
+<programme start="20261028014929 +0000" stop="20261028035619 +0000" channel="ENT Movies">
+  <title lang="es">Sobre-Natural</title>
+  <desc lang="es">Una extraña tormenta libera a una especie de criaturas sedientas de sangre en un pequeño pueblo, donde una pequeña banda de ciudadanos se esconde en un supermercado y lucha por sus vidas.</desc>
+</programme>
+
+
+<programme start="20261028035619 +0000" stop="20261028055920 +0000" channel="ENT Movies">
+  <title lang="es">Tombstone</title>
+  <desc lang="es">En 1879, llegan a la violenta ciudad de Tombstone, Arizona, Wyatt Earp y su familia, con la intención de retirarse y regentar un bar. Pero Earp es elegido sheriff del lugar y se tendrá que enfrentar con los Clanton, una pandilla que pretende la supremacía local.</desc>
+</programme>
+
+
+<programme start="20261028055920 +0000" stop="20261028072655 +0000" channel="ENT Movies">
+  <title lang="es">El rey león</title>
+  <desc lang="es">El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono.</desc>
+</programme>
+
+
+<programme start="20261028072655 +0000" stop="20261028100806 +0000" channel="ENT Movies">
+  <title lang="es">Sin tiempo para morir</title>
+  <desc lang="es">Bond se ha retirado del servicio como agente en activo y disfruta de una tranquila vida en Jamaica. Pero sus días de paz acaban cuando su viejo amigo Felix Leiter de la CIA aparece pidiéndole ayuda. La misión en cuestión, que consiste en rescatar a un científico secuestrado, r...</desc>
+</programme>
+
+
+<programme start="20261028100806 +0000" stop="20261028114931 +0000" channel="ENT Movies">
+  <title lang="es">El gran Showman</title>
+  <desc lang="es">Celebra el nacimiento del mundo del espectáculo y habla de un visionario que se levantó de la nada para crear un espectáculo que se convirtió en una sensación mundial.</desc>
+</programme>
+
+
+<programme start="20261028114931 +0000" stop="20261028143024 +0000" channel="ENT Movies">
+  <title lang="es">Transformers 5: El Ultimo Caballero</title>
+  <desc lang="es">Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra y Optimus Prime se ha ido. La llave para salvar nues...</desc>
+</programme>
+
+
+<programme start="20261028143024 +0000" stop="20261028160625 +0000" channel="ENT Movies">
+  <title lang="es">Una Noche en el Museo 3: El Secreto de la Tumba</title>
+  <desc lang="es">La tabla de Ahkmenrah, la que hace que las estatuas de los museos cobren vida, está perdiendo su magia. En un intento desesperado para proteger el valioso tesoro, Larry Daley viajará junto a sus amigos Theodore Roosevelt en su última película-, el faraón Ahkmenrah, Atila, Jebe...</desc>
+</programme>
+
+
+<programme start="20261028160625 +0000" stop="20261028175627 +0000" channel="ENT Movies">
+  <title lang="es">Thor: un mundo oscuro</title>
+  <desc lang="es">Cuando los Elfos Oscuros intentan hundir el universo en la oscuridad, Thor debe embarcarse en un peligroso y personal viaje que lo reunirá con la doctora Jane Foster.</desc>
+</programme>
+
+
+<programme start="20261028175627 +0000" stop="20261028195652 +0000" channel="ENT Movies">
+  <title lang="es">La Gran Estafa</title>
+  <desc lang="es">Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el...</desc>
+</programme>
+
+
+<programme start="20261028195652 +0000" stop="20261028214125 +0000" channel="ENT Movies">
+  <title lang="es">Las guerreras k-pop</title>
+  <desc lang="es">Cuando no están llenando estadios, las superestrellas del k‑pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.</desc>
+</programme>
+
+
+<programme start="20261028214125 +0000" stop="20261028235958 +0000" channel="ENT Movies">
+  <title lang="es">El gran Gatsby</title>
+  <desc lang="es">Nueva York, años 20. En la alta sociedad norteamericana, llama la atención la presencia de Jay Gatsby, un hombre misterioso e inmensamente rico, al que todos consideran un advenedizo, lo que no impide que acudan a sus fastuosas fiestas en su gran mansión de Long Island. Gatsby...</desc>
+</programme>
+
+
+<programme start="20261022153940 +0000" stop="20261022173733 +0000" channel="ENT Comedy">
+  <title lang="es">Ella esta encantada</title>
+  <desc lang="es">Ella vive en un mundo mágico en el cual dan a cada niño, en el momento de su nacimiento, un «regalo» virtuoso de una madrina de hadas. El llamado regalo de Ella, sin embargo, es la obediencia. Estos derechos de nacimiento se demuestran para ser completamente la maldición una v...</desc>
+</programme>
+
+
+<programme start="20261022173733 +0000" stop="20261022190925 +0000" channel="ENT Comedy">
+  <title lang="es">Elementos</title>
+  <desc lang="es">En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.</desc>
+</programme>
+
+
+<programme start="20261022190925 +0000" stop="20261022205309 +0000" channel="ENT Comedy">
+  <title lang="es">Volver al Futuro 2</title>
+  <desc lang="es">Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más mode...</desc>
+</programme>
+
+
+<programme start="20261022205309 +0000" stop="20261022223011 +0000" channel="ENT Comedy">
+  <title lang="es">Zootopia 2</title>
+  <desc lang="es">Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.</desc>
+</programme>
+
+
+<programme start="20261022223011 +0000" stop="20261022233136 +0000" channel="ENT Comedy">
+  <title lang="es">Lilo y Stitch 2: Stitch en cortocircuito</title>
+  <desc lang="es">Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técni...</desc>
+</programme>
+
+
+<programme start="20261022233136 +0000" stop="20261022235958 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">Sí, Es Necesario Ver Este Importante Episodio De Smiling Friends En El Que Ayudan Al Presidente A Sonreír. He Aquí Por Qué Eso Es Algo Bueno.</desc>
+</programme>
+
+
+<programme start="20261022235958 +0000" stop="20261023015213 +0000" channel="ENT Comedy">
+  <title lang="es">La Guerra de los Roses</title>
+  <desc lang="es">La desintegración de un matrimonio perfecto, tan modélico que resultan insultantes sus vidas tan cómodas como vacías, se produce cuando la esposa, madre y ama de casa perfecta, con una eficaz y oronda sirvienta alemana que completa el cuadro familiar, cae en la cuenta de que d...</desc>
+</programme>
+
+
+<programme start="20261023015213 +0000" stop="20261023035737 +0000" channel="ENT Comedy">
+  <title lang="es">Ni en sueños</title>
+  <desc lang="es">Cuando Fred Flarsky (Seth Rogen) se reencuentra inesperadamente con el primer amor de su vida, que ahora es una de las mujeres más influyentes del mundo, Charlotte Field (Charlize Theron), logra llamar su atención gracias a su peculiar sentido del humor y a su visión idealista...</desc>
+</programme>
+
+
+<programme start="20261023035737 +0000" stop="20261023055939 +0000" channel="ENT Comedy">
+  <title lang="es">Los Juegos del Destino</title>
+  <desc lang="es">Un hombre con trastorno bipolar se muda a casa de sus padres y establece un vínculo con una joven viuda. Juntos, encontrarán una nueva forma de sanar.</desc>
+</programme>
+
+
+<programme start="20261023055939 +0000" stop="20261023073953 +0000" channel="ENT Comedy">
+  <title lang="es">Socios y Sabuesos</title>
+  <desc lang="es">Scott Turner es un meticuloso detective que está investigando un difícil caso de homicidio. Un día encuentra en la calle a un perro desgarbado, vulgar y con muy malos modales, al que decide adoptar y que pronto se convierte en el mejor ayudante que nunca ha tenido.</desc>
+</programme>
+
+
+<programme start="20261023073953 +0000" stop="20261023085957 +0000" channel="ENT Comedy">
+  <title lang="es">El Grinch</title>
+  <desc lang="es">Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pe...</desc>
+</programme>
+
+
+<programme start="20261023085957 +0000" stop="20261023092954 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">Robbie va a ver al Job Wizard que dicta las carreras que todos tienen para el resto de sus vidas. Espera ser elegido para ser una leyenda del rock, pero su sueño se desvanece cuando se anuncia que va a ser un empujador de árboles como su padre.</desc>
+</programme>
+
+
+<programme start="20261023092954 +0000" stop="20261023095952 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">En la Mansión Sheffield no hay agua y Fran contacta a su tío Irving para arreglar las cañerías, él viene acompañado de su nieta de nombre Tiffany. Por otro lado Maggie esta molesta con su padre Maxwell Sheffield porque no le deja ir a una fiesta de adolescentes ya que él consi...</desc>
+</programme>
+
+
+<programme start="20261023095952 +0000" stop="20261023102955 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261023102955 +0000" stop="20261023105956 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">It's Christmas time. Unfortunately ALF chops the Christmas tree into firewood before anyone notices. The Tanners then have two tasks: To teach ALF all about Christmas and find a new Christmas tree as well.</desc>
+</programme>
+
+
+<programme start="20261023105956 +0000" stop="20261023112859 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">Malcolm trata de evitar ir al funeral de la tía Helen para poder asistir a un concierto con Julie Houlerman, por lo que se le ocurre varios intentos para logra su objetivo mientras que Reese intenta dejar en el ataud de su tía un muñeco roto que se supone que iba ser un regalo...</desc>
+</programme>
+
+
+<programme start="20261023112859 +0000" stop="20261023115846 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Monica le entrega a Paolo una de las doce lasañas que preparó para su tía, quien ya no las quiere porque tienen carne.</desc>
+</programme>
+
+
+<programme start="20261023115846 +0000" stop="20261023122909 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">El doctor Chapatín se sienta en un banco del parque para leer su diario, pero no sospecha de que allí es el punto de encuentro de unos contrabandistas. / Don Ramón será visitado por tres mujeres y le pide al Chavo y la Chilindrina que lo ayude a recibir a cada una de ellas. /...</desc>
+</programme>
+
+
+<programme start="20261023122909 +0000" stop="20261023125848 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Homero y Marge disfrutan de la cena romántica que tanta falta les hace y dejan a Bart, Lisa y Maggie con una niñera. Bart y Lisa descubren que la Señora Botz no es más ni menos que la 'niñera ladrona'.</desc>
+</programme>
+
+
+<programme start="20261023125848 +0000" stop="20261023142345 +0000" channel="ENT Comedy">
+  <title lang="es">Hotel Transylvania 2</title>
+  <desc lang="es">Una vez que Mavis y Johnny están fuera del hotel, Drácula y sus amigos tratan de sacar al monstruo interior en su nieto Dennis, mitad humano, mitad vampiro.</desc>
+</programme>
+
+
+<programme start="20261023142345 +0000" stop="20261023160450 +0000" channel="ENT Comedy">
+  <title lang="es">IntensaMente 2</title>
+  <desc lang="es">Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.</desc>
+</programme>
+
+
+<programme start="20261023160450 +0000" stop="20261023173152 +0000" channel="ENT Comedy">
+  <title lang="es">La Oveja Negra de la Familia</title>
+  <desc lang="es">El cómico Chris Farley interpreta al hermano menor -la oveja negra de la familia- que intenta ayudar a que su hermano en la carrera como gobernador al estado de Washington. Su voluntad de ayudarle es buena, pero sus resultados son bastante desastrosos... Una comedia que obtuvo...</desc>
+</programme>
+
+
+<programme start="20261023173152 +0000" stop="20261023185929 +0000" channel="ENT Comedy">
+  <title lang="es">Hotel Transylvania</title>
+  <desc lang="es">Cuando Mavis está a punto de cumplir 118 años, su padre, el conde Drácula, le prepara una fiesta a la que acuden los mejores amigos de la familia, Frankenstein, Hombre Invisible y la Momia; pero cuando un humano llamado Johnny, un tipo común y corriente, aparece en el hotel de...</desc>
+</programme>
+
+
+<programme start="20261023185929 +0000" stop="20261023204949 +0000" channel="ENT Comedy">
+  <title lang="es">El diablo viste a la moda</title>
+  <desc lang="es">Una joven del Medio Oeste se encuentra con una situación mucho más complicada de lo que esperaba cuando se muda a Nueva York para convertirse en escritora y termina siendo la asistente de la tiránica y extravagante editora en jefe de una importante revista de moda.</desc>
+</programme>
+
+
+<programme start="20261023204949 +0000" stop="20261023215958 +0000" channel="ENT Comedy">
+  <title lang="es">Kim Possible: Todo un drama</title>
+  <desc lang="es">El Dr. Drakken tiene un nuevo y malvado plan para dominar el planeta, pro su éxito depende de encontrar el punto débil de Kim Posible. ¿Esta debilidad, tendrá algo que ver con un chico llamado Eric? Kim está totalmente distraída con la fiesta de fin de curso, mientras Ron está...</desc>
+</programme>
+
+
+<programme start="20261023215958 +0000" stop="20261023232957 +0000" channel="ENT Comedy">
+  <title lang="es">Cabezas Huecas</title>
+  <desc lang="es">Los Lone Rangers son una banda de Rock de Los Ángeles que lucha por abrirse camino y que lo tiene todo: el sonido, el look y la actitud. Seguros de su talento, lo único que necesitan es alguien que les escuche y por eso secuestran una emisora de radio.</desc>
+</programme>
+
+
+<programme start="20261023232957 +0000" stop="20261023235958 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">Allan tiene la tarea de encontrar más sujetapapeles para la oficina. *Te escupe*</desc>
+</programme>
+
+
+<programme start="20261023235958 +0000" stop="20261024014046 +0000" channel="ENT Comedy">
+  <title lang="es">Una loca aventura medieval</title>
+  <desc lang="es">Cuando Belladona, la prometida de Fabious, es secuestrada por el malvado brujo Leezar, el rey da un ultimátum a su hijo menor Thadeous: si no consigue rescatarla, no podrá seguir viviendo como un libertino. Entonces emprenden así un peligroso viaje en compañía de Fabious y de...</desc>
+</programme>
+
+
+<programme start="20261024014046 +0000" stop="20261024034258 +0000" channel="ENT Comedy">
+  <title lang="es">Birdman o (La inesperada virtud de la ignorancia)</title>
+  <desc lang="es">Después de hacerse famoso interpretando a un célebre superhéroe, un actor trata de darle un nuevo rumbo a su vida, recuperando a su familia y preparándose para el estreno de una obra teatral en Broadway.</desc>
+</programme>
+
+
+<programme start="20261024034258 +0000" stop="20261024055930 +0000" channel="ENT Comedy">
+  <title lang="es">Deadpool 2</title>
+  <desc lang="es">El mercenario mutante malhablado Wade Wilson (alias Deadpool), reúne a un equipo de mutantes para proteger a un joven con habilidades sobrenaturales del brutal cyborg Cable, que viaja a través del tiempo.</desc>
+</programme>
+
+
+<programme start="20261024055930 +0000" stop="20261024073726 +0000" channel="ENT Comedy">
+  <title lang="es">Los tipos malos 2</title>
+  <desc lang="es">Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.</desc>
+</programme>
+
+
+<programme start="20261024073726 +0000" stop="20261024085901 +0000" channel="ENT Comedy">
+  <title lang="es">La vida secreta de tus mascotas</title>
+  <desc lang="es">Ambientada en un apartamento de Manhattan, las mascotas se reúnen tras la marcha de sus dueños para contar humillantes historias sobre ellos y dar y recibir consejos sobre cómo ser más adorables. El líder de ellos es un Fox Terrier que ve amenazada su posición de privilegio po...</desc>
+</programme>
+
+
+<programme start="20261024085901 +0000" stop="20261024092952 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">Después de conocer a la nueva vecina Mónica, Fran descubre que los dinosaurios tienen que renovar sus licencias de matrimonio después de un cierto tiempo... y luego se da cuenta de que su matrimonio con Earl es técnicamente inválido. Lo cual está bien, hasta que se da cuenta d...</desc>
+</programme>
+
+
+<programme start="20261024092952 +0000" stop="20261024095959 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">Fran debe extraerse las amígdalas, y Maxwell pone una reunión de C.C. en suspenso a la espera de los resultados de la cirugía de Fran. Fran en medio de la anestesia previa a la operación dice muchas cosas entre ellas que lo ama. El señor Sheffield se preocupa por esto, pero fi...</desc>
+</programme>
+
+
+<programme start="20261024095959 +0000" stop="20261024102916 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261024102916 +0000" stop="20261024105959 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">Kate's mother, who is not on warm terms with Willie, arrives for a surprise visit that forces the Tanners to lock ALF in the garage for "a few days". The problem is that ALF just can't stand being not allowed to roam around in the...</desc>
+</programme>
+
+
+<programme start="20261024105959 +0000" stop="20261024112957 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">Reese se une a la escuadra de porristas para impresionar a una chica.</desc>
+</programme>
+
+
+<programme start="20261024112957 +0000" stop="20261024115852 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Chandler ve a Rachel por accidente paseándose sin corpiño después de ducharse, por lo que Rachel va a intentar cobrarse la deuda.</desc>
+</programme>
+
+
+<programme start="20261024115852 +0000" stop="20261024122946 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">El Doctor Chapatín intenta socorrer a un hombre que pasa mal en un restaurante. / Un mosco no deja dormir en paz a Chespirito. / Los niños de la vecindad descubren que se desmayan siempre que son besados por las nuevas vecinas. La única solución para curar a los desmayados es...</desc>
+</programme>
+
+
+<programme start="20261024122946 +0000" stop="20261024125951 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Bart se ve obligado a aprobar el próximo examen de historia y a evitar toda tentación de jugar en la nieve si no quiere repetir año.</desc>
+</programme>
+
+
+<programme start="20261024125951 +0000" stop="20261024150427 +0000" channel="ENT Comedy">
+  <title lang="es">Thor: Ragnarok</title>
+  <desc lang="es">Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.</desc>
+</programme>
+
+
+<programme start="20261024150427 +0000" stop="20261024164600 +0000" channel="ENT Comedy">
+  <title lang="es">Zootopia 2</title>
+  <desc lang="es">Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.</desc>
+</programme>
+
+
+<programme start="20261024164600 +0000" stop="20261024183241 +0000" channel="ENT Comedy">
+  <title lang="es">Los reyes de la calle Mulberry: ¡Que reine el amor!</title>
+  <desc lang="es">Dos amigos intentan rescatar a una adorable abuelita de las garras de un expolicía que busca venganza.</desc>
+</programme>
+
+
+<programme start="20261024183241 +0000" stop="20261024195938 +0000" channel="ENT Comedy">
+  <title lang="es">El espanta tiburones</title>
+  <desc lang="es">Cuando el hijo de un jefe gángster de los tiburones muere accidentalmente durante la caza, su presa potencial y su hermano vegetariano deciden utilizar el incidente en su propio beneficio.</desc>
+</programme>
+
+
+<programme start="20261024195938 +0000" stop="20261024214754 +0000" channel="ENT Comedy">
+  <title lang="es">Volver al Futuro 2</title>
+  <desc lang="es">Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más mode...</desc>
+</programme>
+
+
+<programme start="20261024214754 +0000" stop="20261024232957 +0000" channel="ENT Comedy">
+  <title lang="es">Los Cazafantasmas 2</title>
+  <desc lang="es">Han pasado cinco años desde que los cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stan...</desc>
+</programme>
+
+
+<programme start="20261024232957 +0000" stop="20261024235957 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">DESCARGO DE RESPONSABILIDAD: Solo un aviso - este es el episodio más aterrador de cualquier caricatura que jamás se haya creado.</desc>
+</programme>
+
+
+<programme start="20261025013814 +0000" stop="20261025032618 +0000" channel="ENT Comedy">
+  <title lang="es">Snatch: Cerdos y diamantes</title>
+  <desc lang="es">Franky es un ladrón de diamantes que tiene que entregar un valioso ejemplar a su jefe Avi, pero, antes de hacerlo, se deja convencer por un tal Boris para apostar en un combate ilegal de boxeo. En realidad, se trata de una trampa para arrebatarle el diamante. Cuando Avi se ent...</desc>
+</programme>
+
+
+<programme start="20261025032618 +0000" stop="20261025055958 +0000" channel="ENT Comedy">
+  <title lang="es">Tiempos Violentos</title>
+  <desc lang="es">Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando lleg...</desc>
+</programme>
+
+
+<programme start="20261025055958 +0000" stop="20261025073558 +0000" channel="ENT Comedy">
+  <title lang="es">Una Noche en el Museo 3: El Secreto de la Tumba</title>
+  <desc lang="es">La tabla de Ahkmenrah, la que hace que las estatuas de los museos cobren vida, está perdiendo su magia. En un intento desesperado para proteger el valioso tesoro, Larry Daley viajará junto a sus amigos Theodore Roosevelt en su última película-, el faraón Ahkmenrah, Atila, Jebe...</desc>
+</programme>
+
+
+<programme start="20261025073558 +0000" stop="20261025085904 +0000" channel="ENT Comedy">
+  <title lang="es">Detective por error</title>
+  <desc lang="es">Un caso de confusión de identidades obliga a un duro agente federal a unirse con un vendedor dental para lograr terminar su operación.</desc>
+</programme>
+
+
+<programme start="20261025085904 +0000" stop="20261025092850 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">Robbie se da cuenta de que no tiene idea de cómo hablar con las chicas. Desesperado, le pide ayuda a Spike, un alborotador que le va muy bien con las damas. Desafortunadamente, el consejo de Spike le causa más daño a Robbie que bien.</desc>
+</programme>
+
+
+<programme start="20261025092850 +0000" stop="20261025095957 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">Son las vacaciones, y los Sheffields parten hacia los trópicos, por lo que Nana Fine se invitó a sí misma. Todo parece ir bien, hasta que todos terminaron en la casa de los padres de Fran a causa de la nevada, incluyendo todos los Sheffields, Niles y C.C., que debía estar cena...</desc>
+</programme>
+
+
+<programme start="20261025095957 +0000" stop="20261025102848 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261025102848 +0000" stop="20261025105915 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">Dorothy thinks ALF's favorite TV soap opera is sleaze, and shows him her favorite which ALF thinks is boring. Angered, ALF argues that he could write a better script than the writers. So ALF actually writes a script and sends it in.</desc>
+</programme>
+
+
+<programme start="20261025105915 +0000" stop="20261025112949 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">Malcolm quiere aprender a andar en patines y le pide a Hal que sea su instructor, pero él tiene sus propios métodos para enseñarle a Malcolm como se debe patinar, sin embargo, Malcolm empieza a cuestionar sus métodos debido a que son muy extraños.</desc>
+</programme>
+
+
+<programme start="20261025112949 +0000" stop="20261025115957 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Joey organiza una cita entre Chandler y Janice, y Ross se encuentra con Carol y Susan en una cita de San Valentín.</desc>
+</programme>
+
+
+<programme start="20261025115957 +0000" stop="20261025123001 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">El Peterete intenta abrir una caja fuerte, pero el Chómpiras lo desconcentra al abrir varias bolsitas de papitas. / Los niños molestan a Don Ramón, que trabaja de carpintero. / El Chavo consigue una cerbatana y una porción de chochitos, pero la Chilindrina acaba usándolos para...</desc>
+</programme>
+
+
+<programme start="20261025123001 +0000" stop="20261025125946 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Homero descubre un crecepelo milagroso llamado Dimoxinil y estafa al seguro de la Central para conseguirlo. Al día siguiente, Homero se despierta con una espléndida cabellera, que le hará ascender puestos en la Central.</desc>
+</programme>
+
+
+<programme start="20261025125946 +0000" stop="20261025143018 +0000" channel="ENT Comedy">
+  <title lang="es">George de la Selva</title>
+  <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
+</programme>
+
+
+<programme start="20261025143018 +0000" stop="20261025155839 +0000" channel="ENT Comedy">
+  <title lang="es">Las locuras de Dick y Jane</title>
+  <desc lang="es">Justo cuando están instalando una costosa piscina en casa, Dick es despedido de su bien pagado trabajo como ejecutivo, pero su mujer Jane, que es ama de casa, no se preocupa demasiado porque piensa que la situación será pasajera. Sin embargo, pronto resulta evidente que la pre...</desc>
+</programme>
+
+
+<programme start="20261025155839 +0000" stop="20261025173530 +0000" channel="ENT Comedy">
+  <title lang="es">Dr. Cable: El desastre llama a la puerta</title>
+  <desc lang="es">Steven Kovacs es un joven que acaba de romper con su novia y que pretende instalar en su casa un servicio de televisión por cable de forma gratuita. Pero Kovacs se encuentra con un instalador un tanto peculiar, que busca incansablemente un amigo con el que compartir su vida. D...</desc>
+</programme>
+
+
+<programme start="20261025173530 +0000" stop="20261025193020 +0000" channel="ENT Comedy">
+  <title lang="es">High School Musical 2</title>
+  <desc lang="es">El curso ha terminado y Troy Bolton, la superestrella del equipo de baloncesto de East High School, la inteligente Gabriella Montez y el resto de los Wildcats se preparan para disfrutar del verano más emocionante de sus vidas. Pero todo cambia cuando Sharpay Evans, la reina de...</desc>
+</programme>
+
+
+<programme start="20261025193020 +0000" stop="20261025215309 +0000" channel="ENT Comedy">
+  <title lang="es">Mary Poppins</title>
+  <desc lang="es">Una familia inglesa formada por un padre banquero, una madre sufraguista y dos niños rebeldes -que pretenden llamar la atención de su padre haciendo la vida imposible a todas las niñeras-, se verá alterada con la llegada de Mary Poppins, una institutriz muy especial, que desci...</desc>
+</programme>
+
+
+<programme start="20261025215309 +0000" stop="20261025232950 +0000" channel="ENT Comedy">
+  <title lang="es">La nana mágica: Nanny McPhee</title>
+  <desc lang="es">Los siete hermanos Brown, los niños más traviesos del mundo, acaban de perder a su madre, y para su agobiado padre cuidar de ellos y trabajar en la funeraria local es más de lo que puede soportar. Para colmo, su tía Adelaide, una mujer autoritaria e insensible que les presta a...</desc>
+</programme>
+
+
+<programme start="20261025232950 +0000" stop="20261025235957 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">Después de algunas de las payasadas habituales del Jefe, Pim y Charlie tienen la tarea de ayudar a un científico loco con un "dilema de huevos".</desc>
+</programme>
+
+
+<programme start="20261025235957 +0000" stop="20261026014309 +0000" channel="ENT Comedy">
+  <title lang="es">Juegos, trampas y dos armas humeantes</title>
+  <desc lang="es">Eddie convence a tres amigos para jugarse sus ahorros en una partida de cartas contra Harry el Hacha, un mafioso del barrio. La partida está amañada, y Eddie no sólo pierde todo el dinero sino que contrae una deuda de medio millón de libras, que debe pagar en el plazo de una s...</desc>
+</programme>
+
+
+<programme start="20261026014309 +0000" stop="20261026032028 +0000" channel="ENT Comedy">
+  <title lang="es">Un Santa no tan Santo 2</title>
+  <desc lang="es">Impulsado por el whisky barato y la codicia, Willie Stokes (Billy Bob Thornton) de nuevo hace equipo con su compañero Marcus (Tony Cox), para planear un robo en la víspera de Navidad. La entidad elegida esta vez es una organización benéfica de Chicago dirigida por la bella Dia...</desc>
+</programme>
+
+
+<programme start="20261026032028 +0000" stop="20261026055908 +0000" channel="ENT Comedy">
+  <title lang="es">Tipos de gentileza</title>
+  <desc lang="es">Fábula en forma de tríptico que narra tres historias: la de un hombre atrapado que intenta tomar las riendas de su propia vida; la de un policía aterrado porque su mujer, que había desaparecido en el mar, ha vuelto y parece otra persona; y la de una mujer decidida a encontrar...</desc>
+</programme>
+
+
+<programme start="20261026055908 +0000" stop="20261026072325 +0000" channel="ENT Comedy">
+  <title lang="es">Loca academia de pilotos</title>
+  <desc lang="es">"Topper" Harley es un piloto de élite, un "Top Gun" de las fuerzas aéreas norteamericanas, que tiene que convivir con el legado de su padre y que mantiene una dura rivalidad con otro piloto, Kent Gregory. Un día se le encomienda una dura y peligrosa misión: destruir una planta...</desc>
+</programme>
+
+
+<programme start="20261026072325 +0000" stop="20261026085932 +0000" channel="ENT Comedy">
+  <title lang="es">Bichos: Una Aventura en Miniatura</title>
+  <desc lang="es">Un viaje al diminuto mundo de los bichos, pero en dimensión de tamaño natural y aventuras que se encuentran en cada hoja de árbol. Flik, una hormiga muy ingeniosa que lucha por la libertad de los bichos del mundo, contrata a bichos guerreros para defender su colonia de un grup...</desc>
+</programme>
+
+
+<programme start="20261026085932 +0000" stop="20261026092955 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">Después de que Fran se da cuenta de que cambió de nido en Lamaze Class con Glenda Molehill, comienza a pensar que Baby no es su bebé. Sin embargo, sus temores no parecen estar bien fundados... ¡hasta que conoce al bebé Molehill, Aubrey, que se parece a un bebé con la piel verd...</desc>
+</programme>
+
+
+<programme start="20261026092955 +0000" stop="20261026095948 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">Maxwell está pensando qué va a hacer ver a su hermana (Twiggy) que ha de venir a Nueva York para casarse, pero Fran no tarda mucho tiempo en darse cuenta que la hermana de Maxwell solo tiene ojos para su chófer.</desc>
+</programme>
+
+
+<programme start="20261026095948 +0000" stop="20261026102944 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261026102944 +0000" stop="20261026105953 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">ALF plays matchmaker with Dorothy and her new boyfriend Whizzer.</desc>
+</programme>
+
+
+<programme start="20261026105953 +0000" stop="20261026112958 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">Lois va a la escuela militar para cuidar a Francis, mientras Hal quien sufre de su ausencia empieza a ayudarle a los Kreelboys a hacer un robot pero... todo se sale de control cuando Hal se adueña totalmente del proyecto para sus propias intenciones.</desc>
+</programme>
+
+
+<programme start="20261026112958 +0000" stop="20261026115943 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Monica cocina un plato gourmet para el dueño de un restaurante que busca un nuevo chef, pero, lamentablemente, él está muy drogado para apreciarlo.</desc>
+</programme>
+
+
+<programme start="20261026115943 +0000" stop="20261026122943 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">Chespirito es el utilero de un estudio de televisión y sospecha que los actores están planeando matarlo. / Don Ramón desconfía que el gato de Doña Florinda está comiéndose sus pescaditos de colores.</desc>
+</programme>
+
+
+<programme start="20261026122943 +0000" stop="20261026125946 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Bart y Lisa se cuentan historias de horror en la casa del árbol. Estrella invitada: James Earl Jones.</desc>
+</programme>
+
+
+<programme start="20261026125946 +0000" stop="20261026143013 +0000" channel="ENT Comedy">
+  <title lang="es">Viaje al centro de la Tierra</title>
+  <desc lang="es">Durante una expedición científica en Islandia, el científico y visionario Trevor Anderson, su sobrino Sean y la bella guía local, Hannah, quedan inesperadamente atrapados en una cueva y la única forma de escape posible les lleva a adentrarse cada vez más en las entrañas de la...</desc>
+</programme>
+
+
+<programme start="20261026143013 +0000" stop="20261026162323 +0000" channel="ENT Comedy">
+  <title lang="es">Ghostbusters: Apocalipsis fantasma</title>
+  <desc lang="es">La familia Spengler regresa al lugar donde empezó todo, la icónica estación de bomberos de la ciudad de Nueva York, para formar equipo con los Cazafantasmas originales, quienes han desarrollado un laboratorio de investigación ultrasecreto para llevar la caza de fantasmas al si...</desc>
+</programme>
+
+
+<programme start="20261026162323 +0000" stop="20261026180628 +0000" channel="ENT Comedy">
+  <title lang="es">Hombres de Negro 3</title>
+  <desc lang="es">La película comienza con la fuga de un extraño y poderoso extraterrestre llamado Boris el animal. Es el último superviviente de la raza alienígena boglodita, que sobrevive mediante el ataque, toma, y ocupación de otros planetas habitados. Boris es un asesino, que fue capturado...</desc>
+</programme>
+
+
+<programme start="20261026180628 +0000" stop="20261026194004 +0000" channel="ENT Comedy">
+  <title lang="es">Beetlejuice Beetlejuice</title>
+  <desc lang="es">Después de una tragedia familiar, tres generaciones de la familia Deetz regresan a su hogar en Winter River. La vida de Lydia, que aún sigue atormentada por Beetlejuice, da un vuelco cuando su hija adolescente, Astrid, abre accidentalmente el portal al más allá.</desc>
+</programme>
+
+
+<programme start="20261026194004 +0000" stop="20261026220149 +0000" channel="ENT Comedy">
+  <title lang="es">Mickey 17</title>
+  <desc lang="es">Mickey Barnes se encuentra en la extraordinaria circunstancia de trabajar para un empleador que exige el compromiso máximo con el trabajo… morir, para ganarse la vida.</desc>
+</programme>
+
+
+<programme start="20261026220149 +0000" stop="20261026232910 +0000" channel="ENT Comedy">
+  <title lang="es">Ace Ventura: Cuando la naturaleza llama</title>
+  <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, el inefable detective Ace Ventura, ahora un monasterio budista, es convocado en un peligroso viaje en las selvas de África para encontrar a Shikaka, un animal sagrado desaparecido de la tribu Wachati.</desc>
+</programme>
+
+
+<programme start="20261026232910 +0000" stop="20261026235959 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">Este episodio cuenta la historia de un niño de treinta y cuatro años llamado Pim, que se propone salvar a su madre en Marte.</desc>
+</programme>
+
+
+<programme start="20261027015034 +0000" stop="20261027035641 +0000" channel="ENT Comedy">
+  <title lang="es">Buenos días, Vietnam</title>
+  <desc lang="es">Durante la Guerra de Vietnam, Adrian Cronauer, un disc-jockey de la Fuerza Aérea de los Estados Unidos, llega a Saigón para entretener a los soldados desplegados en Vietnam. Al principio todo es diversión, pero poco a poco los jefes se darán cuenta de que sus comentarios acerc...</desc>
+</programme>
+
+
+<programme start="20261027035641 +0000" stop="20261027055959 +0000" channel="ENT Comedy">
+  <title lang="es">Las Confesiones del Sr. Schmidt</title>
+  <desc lang="es">Un viudo medita sobre su vida desperdiciada cuando maneja a Colorado para asistir a la boda de su hija y un perdedor.</desc>
+</programme>
+
+
+<programme start="20261027055959 +0000" stop="20261027070606 +0000" channel="ENT Comedy">
+  <title lang="es">Lilo y Stitch 2: Stitch en cortocircuito</title>
+  <desc lang="es">Lilo quiere seguir los pasos de su madre y presentarse a un concurso de baile hawaiano. Por su parte, Stitch se porta cada vez mejor haciendo que su “nivel de bondad” sea cada vez más alto. La vida en Hawai parece ir a las mil maravillas… hasta que Stitch sufre un “fallo técni...</desc>
+</programme>
+
+
+<programme start="20261027070606 +0000" stop="20261027085851 +0000" channel="ENT Comedy">
+  <title lang="es">Popeye</title>
+  <desc lang="es">Popeye es un marinero superfuerte que se dedica a bufanar espinacas y busca a su padre. Durante una tormenta que arruina su barco, Popeye llega a la orilla y termina viviendo en la casa de Oyl, donde conoce a Olive. Antes de que pueda ganar su corazón, primero debe lidiar con...</desc>
+</programme>
+
+
+<programme start="20261027085851 +0000" stop="20261027092848 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">El Día del refrigerador es un día para celebrar el mayor logro de los dinosaurios: el refrigerador. Sin embargo, los planes de Earl para dar grandes regalos no se ajustan bien con el hecho de que no recibirá un bono del Día Del Refrigerador este año. Entonces, cuando las autor...</desc>
+</programme>
+
+
+<programme start="20261027092848 +0000" stop="20261027095858 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">Cuando Grace está siendo intimidada por el hijo de un crítico de teatro, C.C. convence a Maxwell que Grace debe invitar al niño a suavizar las cosas. Pero resulta que el chico es una bestia, y Fran lo golpea con un bagette, Maxwell hace todo para convencer al crítico de que su...</desc>
+</programme>
+
+
+<programme start="20261027095858 +0000" stop="20261027102959 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261027102959 +0000" stop="20261027105958 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">ALF is now into gardening, which means he's turned over the entire Tanner backyard. Willie has a problem at work: a lost Mexican boy is at his office and Willie is trying to track down his father. When that fails, and Willie's bos...</desc>
+</programme>
+
+
+<programme start="20261027105958 +0000" stop="20261027112958 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">Malcolm y sus hermanos han estado castigados por mas de 2 meses por haber perdido la bicicleta de Dewey en una apuesta, Lois está enferma con influenza y cree que es domingo... Asi que los chicos no van a la escuela y se toman el día libre, a esto reciben una carta de Francis...</desc>
+</programme>
+
+
+<programme start="20261027112958 +0000" stop="20261027115957 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Joey se enamora de la hermana gemela de Phoebe, por lo que Phoebe se siente dejada de lado. Ross asiste a un curso de parto psicoprofiláctico con Carol y Susan.</desc>
+</programme>
+
+
+<programme start="20261027115957 +0000" stop="20261027122958 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">María Antonieta le demuestra a su esposo Rubén que está preparada para actuar en caso que entren ladrones a su casa. / Don Ramón consigue una muda de chirimoya y quiere plantarla en una maceta. Pero los niños lo distraen a cada rato y no lo dejan terminar el servicio.</desc>
+</programme>
+
+
+<programme start="20261027122958 +0000" stop="20261027125942 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Durante un partido de los Isótopos, Homero se emborracha tanto que se pone a bailar y anima al público y a los jugadores, que remontan un partido que iban perdiendo. El propietario de los Isótopos ofrece a Homero ser la mascota oficial del equipo.</desc>
+</programme>
+
+
+<programme start="20261027125942 +0000" stop="20261027144404 +0000" channel="ENT Comedy">
+  <title lang="es">Hechizo de amor</title>
+  <desc lang="es">Como consecuencia de la maldición lanzada por uno de sus antepasados, todas las mujeres de la familia a la que pertenecen las hermanas Sally y Gilliam, han sufrido a lo largo de la historia la muerte trágica de los hombre de quienes se han enamorado. Ahora viven con sus tías,...</desc>
+</programme>
+
+
+<programme start="20261027144404 +0000" stop="20261027163736 +0000" channel="ENT Comedy">
+  <title lang="es">Me casé con un boludo</title>
+  <desc lang="es">Fabián Brando y Florencia Córmik son actores. El es el más renombrado del país y ella es una completa desconocida. Durante el rodaje de un film inician un fogoso romance que, casi sin noviazgo mediante, termina en casamiento. Durante la luna de miel Florencia se da cuenta de q...</desc>
+</programme>
+
+
+<programme start="20261027163736 +0000" stop="20261027181427 +0000" channel="ENT Comedy">
+  <title lang="es">Grandes Héroes</title>
+  <desc lang="es">Se desarrolla un vínculo especial entre el robot inflable de gran tamaño Baymax y el prodigio Hiro Hamada, quienes se unen a un grupo de amigos para formar una banda de héroes de alta tecnología.</desc>
+</programme>
+
+
+<programme start="20261027181427 +0000" stop="20261027194119 +0000" channel="ENT Comedy">
+  <title lang="es">Monster house: La casa de los sustos</title>
+  <desc lang="es">D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker,...</desc>
+</programme>
+
+
+<programme start="20261027194119 +0000" stop="20261027213140 +0000" channel="ENT Comedy">
+  <title lang="es">El Rey de la Comedia</title>
+  <desc lang="es">Rupert Pupkin es un cómico obsesionado con la fama y convertirse en el mejor en su campo. Un día Rupert conoce a su ídolo, Jerry Langford, y le suplica la oportunidad de aparecer en su show, pero éste se la niega. Sin embargo Pupkin no cejará en su empeño, acosando a Jerry par...</desc>
+</programme>
+
+
+<programme start="20261027213140 +0000" stop="20261027232924 +0000" channel="ENT Comedy">
+  <title lang="es">El Reportero 2: Al Diablo con las Noticias</title>
+  <desc lang="es">Con los años 70 detrás de él, Ron Burgundy, el periodista mejor calificado de San Diego, regresa para tomar por primera vez el primer canal de noticias de 24 horas de Nueva York.</desc>
+</programme>
+
+
+<programme start="20261027232924 +0000" stop="20261027235958 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">El Jefe y Pim luchan por sus vidas en un mundo misterioso llamado Spamtopia. Mientras tanto, Charlie confronta a Allan por algo serio.</desc>
+</programme>
+
+
+<programme start="20261028013657 +0000" stop="20261028031005 +0000" channel="ENT Comedy">
+  <title lang="es">Don Jon</title>
+  <desc lang="es">Jon Martello tiene un objetivo para todo en su vida: su apartamento, su automóvil, su familia, su iglesia y, por supuesto, las mujeres. Sus amigos incluso lo llaman Don Jon debido a su capacidad para sacar "10s" todos los fines de semana sin fallar. Sin embargo, incluso las me...</desc>
+</programme>
+
+
+<programme start="20261028031005 +0000" stop="20261028044005 +0000" channel="ENT Comedy">
+  <title lang="es">No tengo cambio</title>
+  <desc lang="es">Grimm es un urbanista neoyorquino que, harto del caos y la corrupción reinante, decide abandonar la ciudad. Con la ayuda de su novia Phyllis y del simplón de su hermano Loomis, elabora un meticuloso plan para huir en avión después de atracar un banco. Disfrazado de payaso, Gri...</desc>
+</programme>
+
+
+<programme start="20261028044005 +0000" stop="20261028055954 +0000" channel="ENT Comedy">
+  <title lang="es">Espía por error</title>
+  <desc lang="es">Un implacable agente del MI6 británico (Mark Strong), del grupo de operaciones especiales, descubre que tiene un hermano (Sacha Baron Cohen) muy diferente a él: fanático del fútbol y protagonista de numerosos y disparatados altercados dado su peculiar y conflictivo carácter.</desc>
+</programme>
+
+
+<programme start="20261028055954 +0000" stop="20261028072810 +0000" channel="ENT Comedy">
+  <title lang="es">Shrek 2</title>
+  <desc lang="es">Shrek y Fiona viajan al Reino de Muy Muy Lejano, donde los padres de Fiona son el Rey y la Reina, para celebrar su matrimonio. Cuando llegan, se dan cuenta de que no son tan bienvenidos como pensaban.</desc>
+</programme>
+
+
+<programme start="20261028072810 +0000" stop="20261028085934 +0000" channel="ENT Comedy">
+  <title lang="es">Los pingüinos de papá</title>
+  <desc lang="es">Mr. Popper (Jim Carrey) es un poderoso empresario que se queda un tanto descolocado cuando recibe como herencia nada menos que... ¡6 pingüinos! Obviamente, su cuidado no es una tarea sencilla, circunstancia que provoca ciertos problemas tanto en el trabajo como en el hogar de...</desc>
+</programme>
+
+
+<programme start="20261028085934 +0000" stop="20261028092846 +0000" channel="ENT Comedy">
+  <title lang="es">Dinosaurios</title>
+  <desc lang="es">Mónica consigue un trabajo derribando árboles para Wesayso, pero es despedida después de rechazar los avances del nuevo compañero de trabajo Harris el "Sexual", popular por su doble sentido. Decidida a no dejar que los hombres de la fuerza laboral la detengan, lleva el asunto...</desc>
+</programme>
+
+
+<programme start="20261028092846 +0000" stop="20261028095903 +0000" channel="ENT Comedy">
+  <title lang="es">La Niñera</title>
+  <desc lang="es">Maggie tiene una profesora de gimnasia nueva: la misma dura profesora de gimnasia sargento que aterrorizó a Fran en la escuela secundaria. Así Fran pasa al rescate y desafía a la maestra de Maggie. La profesora acepta darle una segunda oportunidad a Maggie para pasar su materi...</desc>
+</programme>
+
+
+<programme start="20261028095903 +0000" stop="20261028102903 +0000" channel="ENT Comedy">
+  <title lang="es">El Chapulín Colorado</title>
+  <desc lang="es"></desc>
+</programme>
+
+
+<programme start="20261028102903 +0000" stop="20261028105957 +0000" channel="ENT Comedy">
+  <title lang="es">ALF</title>
+  <desc lang="es">ALF enters a phase where his erratic behavior and hunger for cats will, as he says, make him into a lunatic. He wants Willie to build a cage where he can be locked in until the phase is over. But ALF has the great ability to deceive.</desc>
+</programme>
+
+
+<programme start="20261028105957 +0000" stop="20261028112846 +0000" channel="ENT Comedy">
+  <title lang="es">Malcolm el de en Medio</title>
+  <desc lang="es">La familia se va al parque acuático excepto Dewey por una infeccion en oidos, por eso tiene que quedarse con una niñera extraña empeñada en estar en silencio. Malcolm y Reese se pelean durante todo el dia mientras Lois y Hal quieren un momento para disfrutar y ellos no los dej...</desc>
+</programme>
+
+
+<programme start="20261028112846 +0000" stop="20261028115958 +0000" channel="ENT Comedy">
+  <title lang="es">Friends</title>
+  <desc lang="es">Rachel se lesiona el tobillo, pero, como no tiene seguro, convence a Monica de intercambiar identidades para usar su cobertura médica.</desc>
+</programme>
+
+
+<programme start="20261028115958 +0000" stop="20261028122957 +0000" channel="ENT Comedy">
+  <title lang="es">El Chavo</title>
+  <desc lang="es">El Chavo le pregunta a Don Ramón el motivo por el cual botan las pelotas. / Rubén y Chespirito se disputan el amor de la Toña a ritmo de copla ranchera. / Los niños estudian para la clase de historia. / Don Ramón, Doña Florinda y Dõna Clotilde pelean por el tendedero de la vec...</desc>
+</programme>
+
+
+<programme start="20261028122957 +0000" stop="20261028125923 +0000" channel="ENT Comedy">
+  <title lang="es">Los Simpson</title>
+  <desc lang="es">Homero inscribe a Bart en un torneo de minigolf para que gane al hijo menor de Ned Flanders, Todd. Homero está enfadado con Ned porque cree que presume de lo que tiene y los dos hacen una apuesta: el padre del niño que no gane cortará el cesped del otro con un vestido de su mu...</desc>
+</programme>
+
+
+<programme start="20261028125923 +0000" stop="20261028142656 +0000" channel="ENT Comedy">
+  <title lang="es">Los Pingüinos de Madagascar</title>
+  <desc lang="es">Spin-off de 'Madagascar' protagonizado por los pingüinos de la isla. Las más divertidas aves encubiertas del mundo del espionaje: Capitán, Kowalski, Rico y Soldado. Son la élite de la élite y juntos unen sus fuerzas a una elegante organización encubierta llamada Viento Norte,...</desc>
+</programme>
+
+
+<programme start="20261028142656 +0000" stop="20261028161411 +0000" channel="ENT Comedy">
+  <title lang="es">Wifi Ralph</title>
+  <desc lang="es">Seis años después de salvar el arcade del ataque de los Cybugs y de la venganza de Turbo,5​ la historia se centrará en las aventuras de Ralph en el espacio de datos de Internet cuando un enrutador Wi-Fi se conecta en la sala de juegos, ya que debe encontrar una pieza de reempl...</desc>
+</programme>
+
+
+<programme start="20261028161411 +0000" stop="20261028180743 +0000" channel="ENT Comedy">
+  <title lang="es">Zootopia</title>
+  <desc lang="es">Decidida a demostrar su valía, la oficial Judy Hopps, la primera conejita de la fuerza policial de Zootopia, aprovecha la oportunidad de resolver su primer caso, incluso si eso significa asociarse con el zorro estafador Nick Wilde para resolver el misterio.</desc>
+</programme>
+
+
+<programme start="20261028180743 +0000" stop="20261028194801 +0000" channel="ENT Comedy">
+  <title lang="es">Moana: Un mar de aventuras</title>
+  <desc lang="es">En la antigua Polinesia, cuando una terrible maldición del semidiós Maui llega a la isla de Moana, ella responde al llamado del océano para buscar al semidiós y arreglar las cosas.</desc>
+</programme>
+
+
+<programme start="20261028194801 +0000" stop="20261028213533 +0000" channel="ENT Comedy">
+  <title lang="es">La propuesta</title>
+  <desc lang="es">Cuando se entera de que está en peligro de perder su estatus de visado y de ser deportada, la arrogante redactora de libros Margaret Tate obliga a su asistente, Andrew Paxton, a casarse con ella.</desc>
+</programme>
+
+
+<programme start="20261028213533 +0000" stop="20261028232958 +0000" channel="ENT Comedy">
+  <title lang="es">Locura de verano</title>
+  <desc lang="es">Es la última noche del verano de 1962, y los adolescentes de Modesto (California) quieren divertirse antes de afrontar sus responsabilidades como adultos. Así que todos salen esa noche para beber, ligar, pasearse en coche, ir a la bolera o bailar un rato.</desc>
+</programme>
+
+
+<programme start="20261028232958 +0000" stop="20261028235957 +0000" channel="ENT Comedy">
+  <title lang="es">Smiling Friends</title>
+  <desc lang="es">Después de comerse un misterioso artefacto encontrado en un antiguo cementerio, Pim repentina y misteriosamente se vuelve verde brillante.</desc>
 </programme>
 
 </tv>
