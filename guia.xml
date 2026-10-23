@@ -1,6 +1,12 @@
 <channel id="ENT Channel">
 <display-name lang="es">ENT Channel</display-name>
 </channel>
+<channel id="ENT Family">
+<display-name lang="es">ENT Family</display-name>
+</channel>
+<channel id="ENT Extreme">
+<display-name lang="es">ENT Extreme</display-name>
+</channel>
 <programme start="20261022160057 +0000" stop="20261022173937 +0000" channel="ENT Channel">
   <title lang="es">Cars 2</title>
   <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
@@ -601,9 +607,6 @@
 </programme>
 
 
-<channel id="ENT Family">
-<display-name lang="es">ENT Family</display-name>
-</channel>
 <programme start="20261022145730 +0000" stop="20261022162420 +0000" channel="ENT Family">
   <title lang="es">George de la Selva</title>
   <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
@@ -1255,6 +1258,456 @@
 <programme start="20261028220701 +0000" stop="20261028235938 +0000" channel="ENT Family">
   <title lang="es">El planeta de los simios</title>
   <desc lang="es">Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.</desc>
+</programme>
+
+
+<programme start="20261022153549 +0000" stop="20261022171740 +0000" channel="ENT Extreme">
+  <title lang="es">La Momia: La tumba del emperador dragón</title>
+  <desc lang="es">El aventurero Rick O'Connell y su familia desafían las antiguas maldiciones y se aventuran en China para enfrentarse al cruel emperador dragón, que ha sido despertado de su sueño milenario. En esta trepidante aventura, lucharán contra fuerzas oscuras y criaturas sobrenaturales...</desc>
+</programme>
+
+
+<programme start="20261022171740 +0000" stop="20261022191331 +0000" channel="ENT Extreme">
+  <title lang="es">El hombre araña</title>
+  <desc lang="es">Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.</desc>
+</programme>
+
+
+<programme start="20261022191331 +0000" stop="20261022205002 +0000" channel="ENT Extreme">
+  <title lang="es">Rescate en el barrio Chino</title>
+  <desc lang="es">Jack Burton es un camionero que, en una de sus paradas en el barrio de Chinatown, en San Francisco, le gana una gran cantidad de dinero a Wang Chi. Este le convence para que le lleve al aeropuerto a recoger a su prometida Miao Yin, tras lo cual le entregará el dinero que le de...</desc>
+</programme>
+
+
+<programme start="20261022205002 +0000" stop="20261022224519 +0000" channel="ENT Extreme">
+  <title lang="es">Bumblebee</title>
+  <desc lang="es">Sexta entrega de la saga 'Transformers', esta vez centrada en el "hermano pequeño" de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld)...</desc>
+</programme>
+
+
+<programme start="20261022224519 +0000" stop="20261023005943 +0000" channel="ENT Extreme">
+  <title lang="es">Karate Kid</title>
+  <desc lang="es">Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea impo...</desc>
+</programme>
+
+
+<programme start="20261023005943 +0000" stop="20261023031648 +0000" channel="ENT Extreme">
+  <title lang="es">Los Ángeles al desnudo</title>
+  <desc lang="es">Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se...</desc>
+</programme>
+
+
+<programme start="20261023031648 +0000" stop="20261023055959 +0000" channel="ENT Extreme">
+  <title lang="es">La noche más oscura</title>
+  <desc lang="es">Tras varios años de investigación de la CIA, que incluyó torturas a prisioneros en Afganistán, y gracias sobre todo a la perserverancia y decisión de la agente especial Maya (Jessica Chastain), por fin el presidente Obama dio el visto bueno a la operación militar que acabó con...</desc>
+</programme>
+
+
+<programme start="20261023055959 +0000" stop="20261023074601 +0000" channel="ENT Extreme">
+  <title lang="es">La Momia: La tumba del emperador dragón</title>
+  <desc lang="es">El aventurero Rick O'Connell y su familia desafían las antiguas maldiciones y se aventuran en China para enfrentarse al cruel emperador dragón, que ha sido despertado de su sueño milenario. En esta trepidante aventura, lucharán contra fuerzas oscuras y criaturas sobrenaturales...</desc>
+</programme>
+
+
+<programme start="20261023074601 +0000" stop="20261023093146 +0000" channel="ENT Extreme">
+  <title lang="es">Rocky Balboa</title>
+  <desc lang="es">Cuando pierde un partido de boxeo virtual muy publicitado con el ex campeón Rocky Balboa, actual campeón de los pesos pesados, Mason Dixon toma represalias al desafiar a Rocky a una pelea televisiva de 10 asaltos televisada a nivel nacional. Para sorpresa de su hijo y amigos,...</desc>
+</programme>
+
+
+<programme start="20261023093146 +0000" stop="20261023111313 +0000" channel="ENT Extreme">
+  <title lang="es">El tesoro del Amazonas</title>
+  <desc lang="es">Cuando Travis, el hijo mouthy de un criminal, desaparece en el Amazonas en busca de un artefacto atesorado, su padre hace pasar a Beck, que se hace el rival de Travis para los afectos de Mariana, una mujer brasileña misteriosa. Con su disposición acerada, Beck es un hombre de...</desc>
+</programme>
+
+
+<programme start="20261023111313 +0000" stop="20261023132048 +0000" channel="ENT Extreme">
+  <title lang="es">X-Men: Días del futuro pasado</title>
+  <desc lang="es">Los X-Men originales unen fuerzas y envían a Wolverine al pasado en un intento desesperado de cambiar la historia y prevenir un evento que desemboca en la perdición tanto para humanos como para mutantes.</desc>
+</programme>
+
+
+<programme start="20261023132048 +0000" stop="20261023152045 +0000" channel="ENT Extreme">
+  <title lang="es">Bumblebee</title>
+  <desc lang="es">Sexta entrega de la saga 'Transformers', esta vez centrada en el "hermano pequeño" de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld)...</desc>
+</programme>
+
+
+<programme start="20261023152045 +0000" stop="20261023170324 +0000" channel="ENT Extreme">
+  <title lang="es">El planeta de los simios: (R)evolución</title>
+  <desc lang="es">Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista dec...</desc>
+</programme>
+
+
+<programme start="20261023170324 +0000" stop="20261023190840 +0000" channel="ENT Extreme">
+  <title lang="es">Shang-Chi y la leyenda de los Diez Anillos</title>
+  <desc lang="es">Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.</desc>
+</programme>
+
+
+<programme start="20261023190840 +0000" stop="20261023204722 +0000" channel="ENT Extreme">
+  <title lang="es">Ecos mortales</title>
+  <desc lang="es">Este thriller romántico y sobrenatural cuenta la historia de una adolescente que vive en un mundo en el que los vivos y los muertos conviven tras la ruptura de la barrera entre ambas realidades. Tras años de tranquila convivencia, una de estas presencias fantasmales amenazará...</desc>
+</programme>
+
+
+<programme start="20261023204722 +0000" stop="20261023225415 +0000" channel="ENT Extreme">
+  <title lang="es">La Momia Regresa</title>
+  <desc lang="es">Rick O'Connell está ahora casado con Evelyn, y se han establecido en Londres, donde crían a su hijo Alex de 8 años. Cuando una cadena de eventos propicia la resurrección de Imhotep, la Momia camina de nuevo sobre la Tierra, determinada a conquistar su búsqueda por la inmortali...</desc>
+</programme>
+
+
+<programme start="20261023225415 +0000" stop="20261024005054 +0000" channel="ENT Extreme">
+  <title lang="es">Inferno</title>
+  <desc lang="es">Robert Langdon, el famoso profesor de simbología se encuentra tras el rastro de una serie de pistas conectadas con el mismísimo Dante. Cuando Langdon despierta con amnesia en un hospital italiano, hará equipo con Sienna Brooks, una doctora de la que él espera le ayude a recupe...</desc>
+</programme>
+
+
+<programme start="20261024005054 +0000" stop="20261024031521 +0000" channel="ENT Extreme">
+  <title lang="es">John Wick 3: Parabellum</title>
+  <desc lang="es">Después de matar a un miembro del misterioso gremio internacional de asesinos, la Mesa Alta, John Wick está excomulgado, pero los hombres y mujeres más despiadados del mundo esperan cada  uno su turno.</desc>
+</programme>
+
+
+<programme start="20261024031521 +0000" stop="20261024055939 +0000" channel="ENT Extreme">
+  <title lang="es">La vida de los otros</title>
+  <desc lang="es">En 1984, en Berlín Oriental, un agente de la policía secreta, que vigilaba a un escritor y a su amante, se encuentra cada vez más absorto por sus vidas.</desc>
+</programme>
+
+
+<programme start="20261024055939 +0000" stop="20261024081804 +0000" channel="ENT Extreme">
+  <title lang="es">Karate Kid</title>
+  <desc lang="es">Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea impo...</desc>
+</programme>
+
+
+<programme start="20261024081804 +0000" stop="20261024100353 +0000" channel="ENT Extreme">
+  <title lang="es">Titanes del Pacífico: La insurrección</title>
+  <desc lang="es">Un futuro cercano. Han pasado 10 años tras la primera invasión que sufrió la humanidad, pero la lucha aún no ha terminado. El planeta vuelve a ser asediado por los Kaiju, una raza de alienígenas colosales, que emergen desde un portal interdimensional con el objetivo de destrui...</desc>
+</programme>
+
+
+<programme start="20261024100353 +0000" stop="20261024120426 +0000" channel="ENT Extreme">
+  <title lang="es">El hombre araña</title>
+  <desc lang="es">Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.</desc>
+</programme>
+
+
+<programme start="20261024120426 +0000" stop="20261024142034 +0000" channel="ENT Extreme">
+  <title lang="es">Misión Imposible 5: Nación Secreta</title>
+  <desc lang="es">Ethan y su equipo se enfrentan a su misión más imposible hasta el momento cuando tienen que erradicar una organización internacional de delincuentes tan hábil como ellos y comprometida con la destrucción del FMI.</desc>
+</programme>
+
+
+<programme start="20261024142034 +0000" stop="20261024170011 +0000" channel="ENT Extreme">
+  <title lang="es">Transformers: El lado oscuro de la luna</title>
+  <desc lang="es">En esta tercera entrega de la saga Transformers, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial en la Tierra entre los EE. UU. y Rusia, donde un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers puede q...</desc>
+</programme>
+
+
+<programme start="20261024170011 +0000" stop="20261024191238 +0000" channel="ENT Extreme">
+  <title lang="es">Los siete magníficos</title>
+  <desc lang="es">Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemen...</desc>
+</programme>
+
+
+<programme start="20261024191238 +0000" stop="20261024211428 +0000" channel="ENT Extreme">
+  <title lang="es">Iron Man 2</title>
+  <desc lang="es">El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la ar...</desc>
+</programme>
+
+
+<programme start="20261024211428 +0000" stop="20261024230917 +0000" channel="ENT Extreme">
+  <title lang="es">Gerónimo: Una leyenda</title>
+  <desc lang="es">Los apaches han accedido, muy a su pesar, a vivir confinados en una reserva. Pero no todos ellos son capaces de adaptarse a su nueva forma de vida como cultivadores de maíz; uno en particular, Gerónimo, rechaza las condiciones de rendición impuestas por el Gobierno de los Esta...</desc>
+</programme>
+
+
+<programme start="20261024230917 +0000" stop="20261025005340 +0000" channel="ENT Extreme">
+  <title lang="es">El ilusionista</title>
+  <desc lang="es">En la Viena de 1900, el misterioso Eisenheim cautiva al público con sus espectáculos de magia e ilusionismo. Sus poderes sobrenaturales llegan a los oídos del príncipe heredero Leopold, un hombre pragmático que acude a su espectáculo con incredulidad, acompañado de su prometid...</desc>
+</programme>
+
+
+<programme start="20261025005340 +0000" stop="20261025030821 +0000" channel="ENT Extreme">
+  <title lang="es">Frontera caníbal (Bone Tomahawk)</title>
+  <desc lang="es">A la localidad de Bright Hope llega un forastero que rápidamente despierta las sospechas del sheriff, que termina por arrestarlo tras dispararle en la pierna. Samantha O'Dwyer se encarga de extraerle la bala en el calabozo. Pero esa noche un joven en un establo es asesinado y...</desc>
+</programme>
+
+
+<programme start="20261025030821 +0000" stop="20261025055915 +0000" channel="ENT Extreme">
+  <title lang="es">Aliens: El Regreso</title>
+  <desc lang="es">La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra esta...</desc>
+</programme>
+
+
+<programme start="20261025055915 +0000" stop="20261025083914 +0000" channel="ENT Extreme">
+  <title lang="es">Transformers 5: El Ultimo Caballero</title>
+  <desc lang="es">Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra y Optimus Prime se ha ido. La llave para salvar nues...</desc>
+</programme>
+
+
+<programme start="20261025083914 +0000" stop="20261025104719 +0000" channel="ENT Extreme">
+  <title lang="es">Spider-Man: De regreso a casa</title>
+  <desc lang="es">Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta...</desc>
+</programme>
+
+
+<programme start="20261025104719 +0000" stop="20261025125311 +0000" channel="ENT Extreme">
+  <title lang="es">Los secretos del poder</title>
+  <desc lang="es">Thriller acerca de un congresista y un reportero que se ven envueltos en un caso de brutales asesinatos que, aparentemente, no tienen relación entre sí. Russell Crowe es Cal McCaffrey, un periodista de Washington D.C., cuyo olfato le lleva a desenmarañar los misteriosos asesin...</desc>
+</programme>
+
+
+<programme start="20261025125311 +0000" stop="20261025150602 +0000" channel="ENT Extreme">
+  <title lang="es">Transformers: El despertar de las bestias</title>
+  <desc lang="es">Una aventura alrededor del mundo con los Autobots que introducirá una nueva facción de Transformers - los Maximals - en la batalla existente en la Tierra entre Autobots y Decepticons.</desc>
+</programme>
+
+
+<programme start="20261025150602 +0000" stop="20261025171210 +0000" channel="ENT Extreme">
+  <title lang="es">El mundo perdido: Jurassic Park</title>
+  <desc lang="es">Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada...</desc>
+</programme>
+
+
+<programme start="20261025171210 +0000" stop="20261025185146 +0000" channel="ENT Extreme">
+  <title lang="es">X-Men</title>
+  <desc lang="es">En un mundo en el que los mutantes (humanos superpotentes evolucionados) existen y son discriminados, se forman dos grupos para un choque inevitable: la Hermandad supremacista, y los X-Men pacifistas.</desc>
+</programme>
+
+
+<programme start="20261025185146 +0000" stop="20261025203816 +0000" channel="ENT Extreme">
+  <title lang="es">Whiplash: Música y Obsesión</title>
+  <desc lang="es">El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un prof...</desc>
+</programme>
+
+
+<programme start="20261025203816 +0000" stop="20261025223514 +0000" channel="ENT Extreme">
+  <title lang="es">El planeta de los simios</title>
+  <desc lang="es">Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.</desc>
+</programme>
+
+
+<programme start="20261025223514 +0000" stop="20261025235958 +0000" channel="ENT Extreme">
+  <title lang="es">Hombres de Negro 2</title>
+  <desc lang="es">Después del abandono del agente K, el agente J no considera su trabajo igual: Ambos formaban parte de un organismo secreto que lucha contra los extraterrestres, sin que el resto de los mortales lo sepan, pueblan la Tierra. La misión de los hombres de negro, como se les conoce...</desc>
+</programme>
+
+
+<programme start="20261025235959 +0000" stop="20261026015545 +0000" channel="ENT Extreme">
+  <title lang="es">Atentado en el Hotel Mumbai</title>
+  <desc lang="es">La verdadera historia del ataque terrorista del Taj Hotel en Mumbai en el 2008. El personal del hotel arriesga sus vidas para mantener a todos a salvo, ya que las personas hacen sacrificios impensables para protegerse a sí mismos y a sus familias. Un grupo de terroristas paqui...</desc>
+</programme>
+
+
+<programme start="20261026015545 +0000" stop="20261026040301 +0000" channel="ENT Extreme">
+  <title lang="es">Prometeo</title>
+  <desc lang="es">Un equipo de exploradores descubre una pista a los orígenes de humanidad en la Tierra, conduciéndolos en un viaje a las esquinas más oscuras del universo. Allí, deben luchar una batalla aterradora para salvar el futuro de la raza humana.</desc>
+</programme>
+
+
+<programme start="20261026040301 +0000" stop="20261026055942 +0000" channel="ENT Extreme">
+  <title lang="es">Cuerpos Ardientes</title>
+  <desc lang="es">Ned Racine, un joven abogado de Florida, lleva una vida normal hasta que conoce a Matty Walker, una tentadora y sensual mujer casada con un rico hombre de negocios. Ned pronto se da cuenta de que Matty es la clase de mujer por la que un hombre sería capaz de matar.</desc>
+</programme>
+
+
+<programme start="20261026055942 +0000" stop="20261026081350 +0000" channel="ENT Extreme">
+  <title lang="es">Creed 2: Defendiendo el Legado</title>
+  <desc lang="es">Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadam...</desc>
+</programme>
+
+
+<programme start="20261026081350 +0000" stop="20261026102411 +0000" channel="ENT Extreme">
+  <title lang="es">Los indestructibles 3</title>
+  <desc lang="es">Barney, Navidad y el resto del equipo se encuentra cara a cara con Conrad Stonebanks, quien hace años co-fundó The Expendables with Barney. Stonebanks se convirtió posteriormente en un despiadado comerciante de armas y en alguien a quien Barney se vio obligado a matar ... o es...</desc>
+</programme>
+
+
+<programme start="20261026102411 +0000" stop="20261026123439 +0000" channel="ENT Extreme">
+  <title lang="es">Capitán América y el Soldado del Invierno</title>
+  <desc lang="es">Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.</desc>
+</programme>
+
+
+<programme start="20261026123439 +0000" stop="20261026150537 +0000" channel="ENT Extreme">
+  <title lang="es">Contra lo imposible</title>
+  <desc lang="es">Basada en la historia real del visionario diseñador americano de automóviles Carroll Shelby y el intrépido piloto británico Ken Miles. Juntos construyen un nuevo coche de carreras para Ford Motor Company y así enfrentar a Enzo Ferrari en las 24 Horas de Le Mans en Francia en 1...</desc>
+</programme>
+
+
+<programme start="20261026150537 +0000" stop="20261026182245 +0000" channel="ENT Extreme">
+  <title lang="es">El señor de los anillos: El retorno del rey</title>
+  <desc lang="es">Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el...</desc>
+</programme>
+
+
+<programme start="20261026182245 +0000" stop="20261026204838 +0000" channel="ENT Extreme">
+  <title lang="es">Piratas del Caribe 2: El Cofre de la Muerte</title>
+  <desc lang="es">El capitán Jack Sparrow tiene una deuda de sangre que saldar: le debe su alma al legendario Davy Jones, el temible gobernante de las profundidades oceánicas. Para escapar de la servidumbre eterna a bordo del Holandés Errante, el astuto Jack debe encontrar el corazón aún palpit...</desc>
+</programme>
+
+
+<programme start="20261026204838 +0000" stop="20261026230949 +0000" channel="ENT Extreme">
+  <title lang="es">Rápidos y Furiosos: Hobbs y Shaw</title>
+  <desc lang="es">Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenét...</desc>
+</programme>
+
+
+<programme start="20261026230949 +0000" stop="20261027005057 +0000" channel="ENT Extreme">
+  <title lang="es">Dunkerque</title>
+  <desc lang="es">Soldados aliados de Bélgica, el Imperio Británico y Francia están rodeados por el ejército alemán y se intenta evacuarlos en una feroz batalla en Dunkerque, Francia, durante la Segunda Guerra Mundial.</desc>
+</programme>
+
+
+<programme start="20261027005057 +0000" stop="20261027024927 +0000" channel="ENT Extreme">
+  <title lang="es">Asesino a Sueldo</title>
+  <desc lang="es">A Slevin la vida no le ha ido nada bien. Su casa acaba de ser declarada en ruinas y ha sorprendido a su novia en la cama con otro. En un intento por perder de vista Los Ángeles durante un tiempo, se marcha a vivir a Nueva York al apartamento de su amigo Nick Fisher. Pero dos d...</desc>
+</programme>
+
+
+<programme start="20261027024927 +0000" stop="20261027043654 +0000" channel="ENT Extreme">
+  <title lang="es">Alerta Máxima</title>
+  <desc lang="es">Este thriller lleno de acción tiene lugar en el USS Missouri, que pronto será retirado de servicio. El ex agente de la CIA descontento Strannix, su asistente Krill y su grupo de terroristas se apoderaron del acorazado con el chantaje nuclear en mente. Han planeado para cada co...</desc>
+</programme>
+
+
+<programme start="20261027043654 +0000" stop="20261027055842 +0000" channel="ENT Extreme">
+  <title lang="es">Pasajero 57</title>
+  <desc lang="es">Charles Rane está considerado uno de los más peligrosos terroristas del mundo. Custodiado por agentes federales, Rane es trasladado a Los Angeles en avión para ser juzgado por los crímenes cometidos. A pesar de las medidas de seguridad, Rane consigue liberarse y se hace con el...</desc>
+</programme>
+
+
+<programme start="20261027055842 +0000" stop="20261027081747 +0000" channel="ENT Extreme">
+  <title lang="es">X-Men: Apocalipsis</title>
+  <desc lang="es">En la década de 1980 los X-Men deben derrotar a un antiguo mutante todopoderoso, En Sabah Nur, que pretende prosperar trayendo destrucción al mundo.</desc>
+</programme>
+
+
+<programme start="20261027081747 +0000" stop="20261027102547 +0000" channel="ENT Extreme">
+  <title lang="es">Pantera Negra</title>
+  <desc lang="es">T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuer...</desc>
+</programme>
+
+
+<programme start="20261027102547 +0000" stop="20261027121537 +0000" channel="ENT Extreme">
+  <title lang="es">Al filo del mañana</title>
+  <desc lang="es">El comandante Bill Cage es un oficial que nunca ha visto un día de combate cuando lo degradan sin ceremonias y lo dejan caer en combate. Cage es asesinado en cuestión de minutos, logrando llevarse un alienígena alfa con él. Él se despierta al comienzo del mismo día y se ve obl...</desc>
+</programme>
+
+
+<programme start="20261027121537 +0000" stop="20261027140354 +0000" channel="ENT Extreme">
+  <title lang="es">Rocky V</title>
+  <desc lang="es">Toda una vida de golpes ha terminado la carrera de Rocky, y un torcido contador lo ha dejado en la ruina. Inspirado por el recuerdo de su entrenador, sin embargo, Rocky encuentra la gloria en el entrenamiento y se enfrenta a un boxeador prometedor.</desc>
+</programme>
+
+
+<programme start="20261027140354 +0000" stop="20261027161743 +0000" channel="ENT Extreme">
+  <title lang="es">El juego</title>
+  <desc lang="es">El multimillonario Nicholas Van Orton (Michael Douglas) tiene todo lo que un hombre puede desear. Pero Conrad (Sean Penn), su díscolo hermano, aún es capaz de encontrar un regalo de cumpleaños que pueda sorprenderle: su ingreso en un club de ocio capaz de diseñar a su medida a...</desc>
+</programme>
+
+
+<programme start="20261027161743 +0000" stop="20261027175400 +0000" channel="ENT Extreme">
+  <title lang="es">Showtime</title>
+  <desc lang="es">Para mejorar la imagen de la policía en los Estados Unidos, sus responsables deciden realizar un reality show televisivo protagonizado por dos oficiales ejemplares: un veterano con un insoportable mal humor y un novato especialista en meteduras de pata.</desc>
+</programme>
+
+
+<programme start="20261027175400 +0000" stop="20261027203742 +0000" channel="ENT Extreme">
+  <title lang="es">Piratas del Caribe 3: En el Fin del Mundo</title>
+  <desc lang="es">Tras la muerte del capitán Jack Sparrow en el fondo del mar a manos de Davy Jones, Will Turner, Elizabeth Swann y el capitán Barbossa emprenden un viaje a los confines de la tierra para rescatarlo. Mientras la Compañía Británica de las Indias Orientales afianza su dominio sobr...</desc>
+</programme>
+
+
+<programme start="20261027203742 +0000" stop="20261027223642 +0000" channel="ENT Extreme">
+  <title lang="es">Thunderbolts*</title>
+  <desc lang="es">Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados...</desc>
+</programme>
+
+
+<programme start="20261027223642 +0000" stop="20261028005239 +0000" channel="ENT Extreme">
+  <title lang="es">Star Wars: Episodio II: El Ataque de los Clones</title>
+  <desc lang="es">Diez años después de la invasión de Naboo, la galaxia está al borde de la guerra civil. Bajo el liderazgo de un Jedi renegado llamado Conde Dooku, miles de sistemas solares amenazan con separarse de la República Galáctica. Cuando se realiza un intento de asesinato contra la Se...</desc>
+</programme>
+
+
+<programme start="20261028005239 +0000" stop="20261028024724 +0000" channel="ENT Extreme">
+  <title lang="es">Life: Vida inteligente</title>
+  <desc lang="es">Un equipo de científicos a bordo de la Estación Espacial Internacional descubre una forma de vida en rápida evolución que causó la extinción en Marte y ahora amenaza toda la vida en la Tierra.</desc>
+</programme>
+
+
+<programme start="20261028024724 +0000" stop="20261028042259 +0000" channel="ENT Extreme">
+  <title lang="es">Sepultado vivo</title>
+  <desc lang="es">Clint Goodman (Tim Matheson) vive feliz sin saber que su mujer Joanna (Jennifer Jason Leigh) mantiene un romance con su ginecólogo. Cansada de su doble vida, Joanna le pide a su amante que le proporcione algo para matar a su marido. La mejor fórmula consiste en administrarle u...</desc>
+</programme>
+
+
+<programme start="20261028042259 +0000" stop="20261028055957 +0000" channel="ENT Extreme">
+  <title lang="es">Terror a bordo</title>
+  <desc lang="es">John y Rae deciden hacer un viaje en su pequeño yate de vela para intentar olvidar la muerte de su hijo en un accidente. Pero la travesía se ve interrumpida cuando divisan un bote neumático que escapa de una goleta. El único ocupante del bote, un asustado joven, les explica qu...</desc>
+</programme>
+
+
+<programme start="20261028055957 +0000" stop="20261028080937 +0000" channel="ENT Extreme">
+  <title lang="es">The King's Man: El Origen</title>
+  <desc lang="es">Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada much...</desc>
+</programme>
+
+
+<programme start="20261028080937 +0000" stop="20261028094937 +0000" channel="ENT Extreme">
+  <title lang="es">Pokémon Detective Pikachu</title>
+  <desc lang="es">Un joven une fuerzas con el detective Pikachu para desentrañar el misterio detrás de la desaparición de su padre. El dúo dinámico descubre una trama tortuosa que representa una amenaza para el mundo Pokémon.</desc>
+</programme>
+
+
+<programme start="20261028094937 +0000" stop="20261028120401 +0000" channel="ENT Extreme">
+  <title lang="es">Top Gun: Maverick</title>
+  <desc lang="es">Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete "Maverick" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando...</desc>
+</programme>
+
+
+<programme start="20261028120401 +0000" stop="20261028140103 +0000" channel="ENT Extreme">
+  <title lang="es">Ant-Man and the Wasp: Quantumania</title>
+  <desc lang="es">Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en...</desc>
+</programme>
+
+
+<programme start="20261028140103 +0000" stop="20261028154637 +0000" channel="ENT Extreme">
+  <title lang="es">X-Men orígenes: Wolverine</title>
+  <desc lang="es">Los primeros años de James Logan, con la rivalidad con su hermano Victor Creed, su servicio en el equipo de fuerzas especiales Arma X, y su experimentación hacia el mutante revestido de metal Wolverine.</desc>
+</programme>
+
+
+<programme start="20261028154637 +0000" stop="20261028172816 +0000" channel="ENT Extreme">
+  <title lang="es">El reinado del fuego</title>
+  <desc lang="es">En el Londres actual, Quinn, un niño de 12 años, despierta por error a un enorme dragón de su letargo de siglos. Veinte años más tarde, pueden apreciarse las devastadoras consecuencias del paso de la bestia y de sus vástagos en la práctica totalidad del planeta. Los dragones s...</desc>
+</programme>
+
+
+<programme start="20261028172816 +0000" stop="20261028192506 +0000" channel="ENT Extreme">
+  <title lang="es">El Planeta De Los Simios</title>
+  <desc lang="es">Luego de un espectacular aterrizaje forzoso en un planeta inexplorado, el intrépido astronauta Leo Davidson se encuentra atrapado en un mundo salvaje donde los monos parlantes dominan a la raza humana. Desesperado por encontrar un camino a casa, Leo debe evadir al invencible e...</desc>
+</programme>
+
+
+<programme start="20261028192506 +0000" stop="20261028210656 +0000" channel="ENT Extreme">
+  <title lang="es">El Turista</title>
+  <desc lang="es">Frank, un turista estadounidense, viaja a Italia para tratar de recuperarse de un fracaso amoroso. Pronto conocerá a Elise, quien traerá la pasión de nuevo a su vida, pero también el peligro.</desc>
+</programme>
+
+
+<programme start="20261028210656 +0000" stop="20261028225425 +0000" channel="ENT Extreme">
+  <title lang="es">El Sexto Sentido</title>
+  <desc lang="es">El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamie...</desc>
+</programme>
+
+
+<programme start="20261028225425 +0000" stop="20261029005337 +0000" channel="ENT Extreme">
+  <title lang="es">Piratas del Caribe 5: La Venganza de Salazar</title>
+  <desc lang="es">Inmerso en una nueva aventura, el desafortunado Capitán Jack Sparrow siente que la mala suerte se cierne sobre él con más fuerza cuando unos letales marineros fantasma, liderados por su antiguo némesis, el malvado Capitán Salazar, escapan del Triángulo de las Bermudas. La únic...</desc>
 </programme>
 
 </tv>
