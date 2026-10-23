@@ -1,4 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>\n<!DOCTYPE tv SYSTEM 'xmltv.dtd'>\n<tv generator-info-name='MiGeneradorEPG' generator-info-url='http://localhost/'>\n\n<channel id='ENT Channel'>\n<display-name lang='es'>ENT Channel</display-name>\n</channel>\n\n<channel id='ENT Family'>\n<display-name lang='es'>ENT Family</display-name>\n</channel>\n\n\
+<xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tv SYSTEM 'xmltv.dtd'
+<tv generator-info-name='MiGeneradorEPG' generator-info-url='http://localhost/'>
+<channel id='ENT Channel'>
+<display-name lang='es'>ENT Channel</display-name>
+</channel><channel id='ENT Family'>
+<display-name lang='es'>ENT Family</display-name>
+</channel>\n\n\
 <programme start="20261022160057 +0000" stop="20261022173937 +0000" channel="ENT Channel">
   <title lang="es">Cars 2</title>
   <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
