@@ -5,7 +5,8 @@
 <display-name lang='es'>ENT Channel</display-name>
 </channel><channel id='ENT Family'>
 <display-name lang='es'>ENT Family</display-name>
-</channel>\n\n\
+</channel>
+
 <programme start="20261022160057 +0000" stop="20261022173937 +0000" channel="ENT Channel">
   <title lang="es">Cars 2</title>
   <desc lang="es">El coche de carreras de estrellas Lightning McQueen y su amigo mater en el extranjero para competir en la carrera del Gran Premio Mundial. Pero el camino al campeonato se vuelve rocoso cuando Mater se ve atrapado en una intrigante aventura propia: el espionaje internacional.</desc>
@@ -605,7 +606,7 @@
   <desc lang="es">De casualidad, Homero salva a la ciudad de una fusión nuclear y es tomado por un héroe.</desc>
 </programme>
 
-\n\
+
 <programme start="20261022145730 +0000" stop="20261022162420 +0000" channel="ENT Family">
   <title lang="es">George de la Selva</title>
   <desc lang="es">En lo más profundo de la jungla africana los gorilas han criado a un bebé, George. Crecerá para ser el más valiente rey de la jungla. George va de un árbol a otro llevándose por delante todo lo que está en su camino. Pero cuando una bella mujer llamada Úrsula, procedente de la...</desc>
@@ -1259,4 +1260,4 @@
   <desc lang="es">Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.</desc>
 </programme>
 
-\n</tv>\
+</tv>
